@@ -1,0 +1,108 @@
+/* Reset CSS */
+* { /* Seleciona todos os elementos */
+    margin: 0; /* Remove a margem padrão */
+    padding: 0; /* Remove o preenchimento padrão */
+    box-sizing: border-box; /* Define o box-sizing para incluir bordas e preenchimento nas dimensões dos elementos */
+}
+
+body { /* Estiliza o corpo do documento */
+    font-family: 'Roboto', sans-serif; /* Define a fonte Roboto */
+    background: linear-gradient(135deg, #1e1e1e, #2a2a2a); /* Define um fundo com gradiente linear */
+    color: #ffffff; /* Define a cor do texto como branco */
+    display: flex; /* Usa o layout flexível */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza o conteúdo verticalmente */
+    height: 100vh; /* Define a altura do corpo como 100% da altura da viewport */
+    margin: 0; /* Remove a margem padrão */
+}
+
+.container { /* Estiliza o contêiner principal */
+    width: 90%; /* Define a largura como 90% do elemento pai */
+    max-width: 800px; /* Define a largura máxima como 800px */
+    padding: 20px; /* Adiciona um preenchimento de 20px */
+    text-align: center; /* Centraliza o texto */
+    background-color: #121212; /* Define a cor de fundo */
+    border-radius: 10px; /* Arredonda os cantos */
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5); /* Adiciona sombra ao contêiner */
+    backdrop-filter: blur(5px); /* Aplica um efeito de desfoque ao fundo */
+    border: 1px solid rgba(255, 255, 255, 0.1); /* Define a borda com transparência */
+}
+
+header { /* Estiliza o cabeçalho */
+    margin-bottom: 20px; /* Adiciona uma margem inferior de 20px */
+}
+
+header h1 { /* Estiliza o título do cabeçalho */
+    font-size: 2.5em; /* Define o tamanho da fonte */
+    margin-bottom: 10px; /* Adiciona uma margem inferior de 10px */
+    color: #f5c518; /* Define a cor do texto */
+    text-transform: uppercase; /* Transforma o texto em maiúsculas */
+    letter-spacing: 2px; /* Define o espaçamento entre letras */
+}
+
+#subject-selection, #quiz-container, #result { /* Estiliza as seções de seleção de assunto, contêiner do quiz e resultado */
+    margin-top: 20px; /* Adiciona uma margem superior de 20px */
+}
+
+#subject-select { /* Estiliza o menu de seleção de assunto */
+    padding: 10px; /* Adiciona um preenchimento de 10px */
+    background-color: #1e1e1e; /* Define a cor de fundo */
+    color: #f5c518; /* Define a cor do texto */
+    border: 1px solid #f5c518; /* Define a borda */
+    border-radius: 5px; /* Arredonda os cantos */
+    font-size: 1em; /* Define o tamanho da fonte */
+    margin-top: 10px; /* Adiciona uma margem superior de 10px */
+}
+
+button { /* Estiliza os botões */
+    padding: 10px 20px; /* Adiciona um preenchimento vertical de 10px e horizontal de 20px */
+    margin-top: 20px; /* Adiciona uma margem superior de 20px */
+    background-color: #f5c518; /* Define a cor de fundo */
+    color: #1e1e1e; /* Define a cor do texto */
+    border: none; /* Remove a borda */
+    cursor: pointer; /* Muda o cursor para uma mãozinha ao passar sobre o botão */
+    font-size: 1em; /* Define o tamanho da fonte */
+    border-radius: 4px; /* Arredonda os cantos */
+    transition: background-color 0.3s; /* Adiciona uma transição suave na mudança de cor de fundo */
+}
+
+button:hover { /* Estiliza o botão ao passar o mouse sobre ele */
+    background-color: #e5b518; /* Muda a cor de fundo */
+}
+
+.hidden { /* Estiliza os elementos com a classe hidden */
+    display: none; /* Esconde o elemento */
+}
+
+footer { /* Estiliza o rodapé */
+    margin-top: 40px; /* Adiciona uma margem superior de 40px */
+    padding: 10px; /* Adiciona um preenchimento de 10px */
+    background-color: #1e1e1e; /* Define a cor de fundo */
+    color: #f5c518; /* Define a cor do texto */
+    font-size: 0.9em; /* Define o tamanho da fonte */
+    border-top: 1px solid #333; /* Adiciona uma borda superior */
+}
+
+footer a { /* Estiliza os links no rodapé */
+    color: #18b6f5; /* Define a cor do link */
+    text-decoration: none; /* Remove a sublinhado */
+}
+
+footer a:hover { /* Estiliza os links no rodapé ao passar o mouse sobre eles */
+    text-decoration: underline; /* Adiciona sublinhado */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) { /* Define estilos para dispositivos com largura máxima de 768px */
+    header h1 { /* Estiliza o título do cabeçalho */
+        font-size: 2em; /* Reduz o tamanho da fonte */
+    }
+
+    .container { /* Estiliza o contêiner principal */
+        padding: 15px; /* Reduz o preenchimento */
+    }
+}
+
+label {
+    cursor: pointer; /* Muda o cursor para mãozinha ao passar sobre o rótulo */
+}
