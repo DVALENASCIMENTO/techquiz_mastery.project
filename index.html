@@ -1,51 +1,53 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TechQuiz Mastery</title>
-    <link rel="stylesheet" href="css/styles.css"> <!-- Verifique o caminho do CSS -->
-</head>
-<body>
-    <div class="container">
-        <header>
-            <h1>TechQuiz Mastery</h1>
+<!DOCTYPE html> <!-- Declaração do tipo de documento, especificando que é um documento HTML5 -->
+<html lang="en"> <!-- Tag de abertura do documento HTML, com o atributo de idioma definido para inglês -->
+<head> <!-- Tag que contém metadados sobre o documento, como título e links para scripts e folhas de estilo -->
+    <meta charset="UTF-8"> <!-- Define a codificação de caracteres para UTF-8, garantindo suporte a uma ampla variedade de caracteres -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Configura a viewport para garantir que a página seja responsiva e dimensionada corretamente em dispositivos móveis -->
+    <title>TechQuiz Mastery</title> <!-- Define o título da página, que será exibido na aba do navegador -->
+    <link rel="stylesheet" href="css/styles.css"> <!-- Link para uma folha de estilo externa, usada para estilizar a página. Verifique o caminho do CSS -->
+</head> <!-- Fim da seção head -->
+<body> <!-- Tag de abertura do corpo do documento, onde o conteúdo visível da página é definido -->
+    <div class="container"> <!-- Div que age como um contêiner para agrupar o conteúdo da página -->
+        <header> <!-- Tag de cabeçalho, geralmente contém títulos e informações introdutórias -->
+            <h1>TechQuiz Mastery</h1> <!-- Título principal da página -->
         </header>
-        <main>
-            <div id="subject-selection">
-                <h2>Escolha o Assunto</h2>
-                <select id="subject-select">
-                    <option value="internet">Internet</option>
-                    <option value="html">HTML</option>
-                    <option value="css">CSS</option>
-                    <option value="javascript">JavaScript</option>
-                    <option value="logica">Lógica de Programação</option>
-                    <option value="git">Git</option>
-                    <option value="estruturaDeDados">Estrutura de Dados</option>
-                    <option value="poo">POO</option>
-                    <option value="react">React</option>
-                    <option value="ux">UX</option>
+        <main> <!-- Tag principal, usada para agrupar o conteúdo principal da página -->
+            <div id="subject-selection"> <!-- Div para a seção de seleção de assunto -->
+                <h4>Escolha o Assunto</h4> <!-- Cabeçalho para a seção de seleção de assunto -->
+                <select id="subject-select"> <!-- Menu de seleção drop-down para escolher o assunto do quiz -->
+                    <option value="internet">Internet</option> <!-- Opção para escolher o assunto Internet -->
+                    <option value="html">HTML</option> <!-- Opção para escolher o assunto HTML -->
+                    <option value="css">CSS</option> <!-- Opção para escolher o assunto CSS -->
+                    <option value="javascript">JavaScript</option> <!-- Opção para escolher o assunto JavaScript -->
+                    <option value="logica">Lógica de Programação</option> <!-- Opção para escolher o assunto Lógica de Programação -->
+                    <option value="git">Git</option> <!-- Opção para escolher o assunto Git -->
+                    <option value="estruturaDeDados">Estrutura de Dados</option> <!-- Opção para escolher o assunto Estrutura de Dados -->
+                    <option value="poo">POO</option> <!-- Opção para escolher o assunto Programação Orientada a Objetos -->
+                    <option value="react">React</option> <!-- Opção para escolher o assunto React -->
+                    <option value="ux">UX</option> <!-- Opção para escolher o assunto UX -->
                 </select>
-                <button id="start-quiz">Iniciar Quiz</button>
+                <button id="start-quiz">Iniciar Quiz</button> <!-- Botão para iniciar o quiz -->
             </div>
-            <div id="quiz-container" class="hidden">
-                <div id="quiz"></div>
-                <button id="next-question">Próxima Pergunta</button>
+            <div id="quiz-container" class="hidden"> <!-- Div para o contêiner do quiz, inicialmente escondido -->
+                <div id="quiz"></div> <!-- Div para exibir as perguntas do quiz -->
+                <button id="stop-quiz">Parar Quiz</button> <!-- Novo botão para parar o quiz -->
+                <button id="next-question">Próxima Pergunta</button> <!-- Botão para ir para a próxima pergunta -->
             </div>
-            <div id="result" class="hidden">
-                <h2>Resultado</h2>
-                <p id="score"></p>
-                <button id="restart-quiz">Reiniciar Quiz</button>
+            <div id="result" class="hidden"> <!-- Div para exibir o resultado do quiz, inicialmente escondida -->
+                <h2>Resultado</h2> <!-- Cabeçalho para a seção de resultado -->
+                <p id="score"></p> <!-- Parágrafo para exibir a pontuação do usuário -->
+                <button id="restart-quiz">Reiniciar Quiz</button> <!-- Botão para reiniciar o quiz -->
+                <button id="back-to-home">Voltar para o Início</button> <!-- Novo botão para voltar para a seleção de assunto -->
             </div>
         </main>
-        <footer>
-            <p>Diego Nascimento - Analista e Desenvolvedor de Sistemas</p>
-            <p>GitHub: <a href="https://github.com/seu-username" target="_blank">Seu GitHub</a> | LinkedIn: <a href="https://linkedin.com/in/seu-username" target="_blank">Seu LinkedIn</a></p>
+        <footer> <!-- Tag de rodapé, geralmente contém informações de copyright e links -->
+            <p>Diego Nascimento - Analista e Desenvolvedor de Sistemas</p> <!-- Informações sobre o autor da página -->
+            <p><a href="https://github.com/DVALENASCIMENTO" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/diego-vale-do-nascimento-48212215b/" target="_blank">LinkedIn</a></p> <!-- Links para o GitHub e LinkedIn do autor -->
         </footer>
     </div>
-    <audio id="background-music" src="https://YOUR_RADIO_STREAM_URL" autoplay loop></audio> <!-- Substitua YOUR_RADIO_STREAM_URL pelo URL correto -->
-    <audio id="correct-sound" src="audio/correct.mp3"></audio>
-    <audio id="wrong-sound" src="audio/incorrect.mp3"></audio>
-    <script src="js/script.js"></script> <!-- Verifique o caminho do JavaScript -->
-</body>
-</html>
+    <audio id="background-music" src="https://YOUR_RADIO_STREAM_URL" autoplay loop></audio> <!-- Tag de áudio para música de fundo, substitua YOUR_RADIO_STREAM_URL pelo URL correto -->
+    <audio id="correct-sound" src="audio/correct.mp3"></audio> <!-- Tag de áudio para o som de resposta correta -->
+    <audio id="wrong-sound" src="audio/incorrect.mp3"></audio> <!-- Tag de áudio para o som de resposta incorreta -->
+    <script src="js/script.js"></script> <!-- Link para um arquivo JavaScript externo, usado para a funcionalidade da página. Verifique o caminho do JavaScript -->
+</body> <!-- Fim da seção body -->
+</html> <!-- Fim do documento HTML -->
