@@ -1,0 +1,362 @@
+[
+    {
+        "number": 1,
+        "question": "1. O que significa HTML?",
+        "options": ["Hypertext Markup Language", "Hyperlink Text Markup Language", "Hypertext Multi Language", "Hyperlink Markup Layer"],
+        "answer": "Hypertext Markup Language"
+    },
+    {
+        "number": 2,
+        "question": "2. Qual tag define o início de um documento HTML?",
+        "options": ["<html>", "<!DOCTYPE html>", "<head>", "<body>"],
+        "answer": "<!DOCTYPE html>"
+    },
+    {
+        "number": 3,
+        "question": "3. Qual tag é usada para criar um parágrafo?",
+        "options": ["<p>", "<paragraph>", "<text>", "<div>"],
+        "answer": "<p>"
+    },
+    {
+        "number": 4,
+        "question": "4. Qual atributo é utilizado para especificar o destino de um link?",
+        "options": ["src", "href", "alt", "link"],
+        "answer": "href"
+    },
+    {
+        "number": 5,
+        "question": "5. Como você cria uma lista não ordenada em HTML?",
+        "options": ["<ul>", "<list>", "<ol>", "<dl>"],
+        "answer": "<ul>"
+    },
+    {
+        "number": 6,
+        "question": "6. Qual tag é usada para inserir uma imagem?",
+        "options": ["<image>", "<pic>", "<img>", "<photo>"],
+        "answer": "<img>"
+    },
+    {
+        "number": 7,
+        "question": "7. O que a tag <table> define?",
+        "options": ["Um parágrafo", "Uma tabela", "Um link", "Uma imagem"],
+        "answer": "Uma tabela"
+    },
+    {
+        "number": 8,
+        "question": "8. Qual elemento é usado para criar um botão em um formulário?",
+        "options": ["<input type=\"button\">", "<button>", "<submit>", "<btn>"],
+        "answer": "<button>"
+    },
+    {
+        "number": 9,
+        "question": "9. Qual tag é usada para definir um cabeçalho de nível 1?",
+        "options": ["<header>", "<h1>", "<heading1>", "<title>"],
+        "answer": "<h1>"
+    },
+    {
+        "number": 10,
+        "question": "10. Qual atributo é usado para fornecer uma descrição alternativa para uma imagem?",
+        "options": ["description", "alt", "title", "caption"],
+        "answer": "alt"
+    },
+    {
+        "number": 11,
+        "question": "11. Como você define um link interno em HTML?",
+        "options": ["<a href=\"pagina.html\">", "<link href=\"pagina.html\">", "<a src=\"pagina.html\">", "<a path=\"pagina.html\">"],
+        "answer": "<a href=\"pagina.html\">"
+    },
+    {
+        "number": 12,
+        "question": "12. Qual tag é usada para criar uma lista ordenada?",
+        "options": ["<ul>", "<list>", "<ol>", "<dl>"],
+        "answer": "<ol>"
+    },
+    {
+        "number": 13,
+        "question": "13. O que a tag <iframe> faz?",
+        "options": ["Insere uma imagem", "Cria uma tabela", "Embute conteúdo de outra página", "Cria um formulário"],
+        "answer": "Embute conteúdo de outra página"
+    },
+    {
+        "number": 14,
+        "question": "14. Qual atributo é usado para definir a largura e altura de uma imagem?",
+        "options": ["size", "width e height", "dim", "measure"],
+        "answer": "width e height"
+    },
+    {
+        "number": 15,
+        "question": "15. O que a tag <footer> representa?",
+        "options": ["O corpo do documento", "O cabeçalho do documento", "O rodapé do documento", "O conteúdo principal"],
+        "answer": "O rodapé do documento"
+    },
+    {
+        "number": 16,
+        "question": "16. Qual tag é usada para definir uma área clicável em uma imagem?",
+        "options": ["<area>", "<map>", "<image>", "<link>"],
+        "answer": "<area>"
+    },
+    {
+        "number": 17,
+        "question": "17. O que o atributo required faz em um campo de formulário?",
+        "options": ["Permite múltiplos valores", "Define um valor padrão", "Torna o campo obrigatório", "Estabelece um formato de data"],
+        "answer": "Torna o campo obrigatório"
+    },
+    {
+        "number": 18,
+        "question": "18. Qual tag é usada para criar um campo de entrada de texto?",
+        "options": ["<input type=\"text\">", "<textbox>", "<textarea>", "<field>"],
+        "answer": "<input type=\"text\">"
+    },
+    {
+        "number": 19,
+        "question": "19. Como você define uma tabela em HTML?",
+        "options": ["<table>", "<tbl>", "<tab>", "<tr>"],
+        "answer": "<table>"
+    },
+    {
+        "number": 20,
+        "question": "20. Qual tag HTML5 é usada para representar uma área de gráficos dinâmicos?",
+        "options": ["<canvas>", "<draw>", "<graph>", "<chart>"],
+        "answer": "<canvas>"
+    },
+    {
+        "number": 21,
+        "question": "21. O que o atributo pattern faz em um campo de entrada?",
+        "options": ["Define um padrão para validação de entrada", "Define o estilo de exibição", "Define um valor padrão", "Estabelece o tamanho do campo"],
+        "answer": "Define um padrão para validação de entrada"
+    },
+    {
+        "number": 22,
+        "question": "22. Qual tag é usada para criar um formulário?",
+        "options": ["<form>", "<input>", "<field>", "<button>"],
+        "answer": "<form>"
+    },
+    {
+        "number": 23,
+        "question": "23. Qual elemento é usado para criar uma caixa de seleção (checkbox)?",
+        "options": ["<checkbox>", "<input type=\"checkbox\">", "<select>", "<option>"],
+        "answer": "<input type=\"checkbox\">"
+    },
+    {
+        "number": 24,
+        "question": "24. Qual tag é usada para representar um segmento de um documento?",
+        "options": ["<section>", "<segment>", "<block>", "<div>"],
+        "answer": "<section>"
+    },
+    {
+        "number": 25,
+        "question": "25. Qual tag é usada para definir um título secundário em HTML?",
+        "options": ["<h2>", "<header>", "<title>", "<head>"],
+        "answer": "<h2>"
+    },
+    {
+        "number": 26,
+        "question": "26. O que a tag <mark> faz?",
+        "options": ["Destaca texto", "Adiciona uma imagem", "Cria uma tabela", "Cria um link"],
+        "answer": "Destaca texto"
+    },
+    {
+        "number": 27,
+        "question": "27. Qual tag é usada para agrupar conteúdo em um documento HTML?",
+        "options": ["<group>", "<section>", "<div>", "<block>"],
+        "answer": "<div>"
+    },
+    {
+        "number": 28,
+        "question": "28. Qual tag é usada para criar uma área para o conteúdo principal de uma página?",
+        "options": ["<main>", "<content>", "<body>", "<section>"],
+        "answer": "<main>"
+    },
+    {
+        "number": 29,
+        "question": "29. Qual atributo é usado para definir uma fonte de áudio em HTML5?",
+        "options": ["src", "source", "audio", "file"],
+        "answer": "src"
+    },
+    {
+        "number": 30,
+        "question": "30. Qual tag é usada para incluir um vídeo em uma página?",
+        "options": ["<video>", "<movie>", "<media>", "<film>"],
+        "answer": "<video>"
+    },
+    {
+        "number": 31,
+        "question": "31. Qual tag define um item em uma lista não ordenada?",
+        "options": ["<li>", "<item>", "<list>", "<ul>"],
+        "answer": "<li>"
+    },
+    {
+        "number": 32,
+        "question": "32. Qual atributo é usado para definir um estilo inline em HTML?",
+        "options": ["class", "id", "style", "type"],
+        "answer": "style"
+    },
+    {
+        "number": 33,
+        "question": "33. O que a tag <header> representa?",
+        "options": ["O conteúdo principal da página", "O rodapé da página", "O cabeçalho da página", "Um bloco de código"],
+        "answer": "O cabeçalho da página"
+    },
+    {
+        "number": 34,
+        "question": "34. Como você define um campo de entrada de senha em HTML?",
+        "options": ["<input type=\"password\">", "<password>", "<input type=\"secret\">", "<input type=\"text\">"],
+        "answer": "<input type=\"password\">"
+    },
+    {
+        "number": 35,
+        "question": "35. Qual tag é usada para criar um campo de seleção (dropdown)?",
+        "options": ["<select>", "<input>", "<option>", "<dropdown>"],
+        "answer": "<select>"
+    },
+    {
+        "number": 36,
+        "question": "36. Qual tag HTML5 é usada para criar uma barra de progresso?",
+        "options": ["<progress>", "<meter>", "<bar>", "<status>"],
+        "answer": "<progress>"
+    },
+    {
+        "number": 37,
+        "question": "37. O que faz a tag <blockquote>?",
+        "options": ["Cita um trecho de texto", "Cria uma lista", "Insere uma imagem", "Adiciona um rodapé"],
+        "answer": "Cita um trecho de texto"
+    },
+    {
+        "number": 38,
+        "question": "38. O que a tag <cite> representa?",
+        "options": ["Um título de obra", "Uma citação", "Um link", "Um parágrafo"],
+        "answer": "Um título de obra"
+    },
+    {
+        "number": 39,
+        "question": "39. Qual tag é usada para criar um título de nível 3?",
+        "options": ["<h1>", "<h2>", "<h3>", "<h4>"],
+        "answer": "<h3>"
+    },
+    {
+        "number": 40,
+        "question": "40. O que o atributo maxlength faz em um campo de entrada de texto?",
+        "options": ["Define o número máximo de caracteres que podem ser inseridos", "Define o tamanho do campo", "Define o número mínimo de caracteres", "Define o tipo de caracteres permitidos"],
+        "answer": "Define o número máximo de caracteres que podem ser inseridos"
+    },
+    {
+        "number": 41,
+        "question": "41. Qual tag é usada para incluir conteúdo multimídia, como áudio ou vídeo, em HTML5?",
+        "options": ["<media>", "<file>", "<audio> e <video>", "<source>"],
+        "answer": "<audio> e <video>"
+    },
+    {
+        "number": 42,
+        "question": "42. Qual tag é usada para criar uma célula de cabeçalho em uma tabela?",
+        "options": ["<th>", "<header>", "<td>", "<cell>"],
+        "answer": "<th>"
+    },
+    {
+        "number": 43,
+        "question": "43. Qual tag é usada para representar um conteúdo de formulário em HTML5?",
+        "options": ["<form>", "<input>", "<fieldset>", "<submit>"],
+        "answer": "<form>"
+    },
+    {
+        "number": 44,
+        "question": "44. Qual atributo de <input> permite a criação de um campo de seleção múltipla?",
+        "options": ["multiple", "select", "option", "list"],
+        "answer": "multiple"
+    },
+    {
+        "number": 45,
+        "question": "45. O que faz a tag <progress> em HTML5?",
+        "options": ["Exibe uma barra de progresso", "Cria um gráfico dinâmico", "Representa um texto destacado", "Cria uma tabela"],
+        "answer": "Exibe uma barra de progresso"
+    },
+    {
+        "number": 46,
+        "question": "46. Qual tag HTML5 é usada para definir a parte principal do conteúdo de uma página?",
+        "options": ["<main>", "<content>", "<section>", "<body>"],
+        "answer": "<main>"
+    },
+    {
+        "number": 47,
+        "question": "47. O que faz a tag <figure> em HTML5?",
+        "options": ["Cria uma imagem com uma legenda", "Define uma tabela", "Adiciona uma área de texto", "Cria um link"],
+        "answer": "Cria uma imagem com uma legenda"
+    },
+    {
+        "number": 48,
+        "question": "48. Qual atributo é usado para definir um endereço de um arquivo em uma tag <a>?",
+        "options": ["href", "src", "link", "path"],
+        "answer": "href"
+    },
+    {
+        "number": 49,
+        "question": "49. Qual tag é usada para criar um formulário de múltiplas linhas para entrada de texto?",
+        "options": ["<input>", "<textbox>", "<textarea>", "<field>"],
+        "answer": "<textarea>"
+    },
+    {
+        "number": 50,
+        "question": "50. O que a tag <nav> representa?",
+        "options": ["A navegação principal da página", "O conteúdo principal", "O rodapé da página", "O cabeçalho da página"],
+        "answer": "A navegação principal da página"
+    },
+    {
+        "number": 51,
+        "question": "51. Qual atributo é usado para definir uma área dentro de uma página HTML?",
+        "options": ["id", "section", "class", "area"],
+        "answer": "id"
+    },
+    {
+        "number": 52,
+        "question": "52. Qual tag é usada para agrupar elementos de uma lista dentro de uma lista ordenada?",
+        "options": ["<ol>", "<ul>", "<li>", "<list>"],
+        "answer": "<li>"
+    },
+    {
+        "number": 53,
+        "question": "53. Qual tag HTML5 representa uma parte independente de um documento?",
+        "options": ["<article>", "<section>", "<div>", "<span>"],
+        "answer": "<article>"
+    },
+    {
+        "number": 54,
+        "question": "54. Qual tag define uma área de texto de vários parágrafos?",
+        "options": ["<p>", "<text>", "<textarea>", "<field>"],
+        "answer": "<textarea>"
+    },
+    {
+        "number": 55,
+        "question": "55. Qual tag define um bloco de conteúdo que deve ser apresentado como um nível separado?",
+        "options": ["<div>", "<block>", "<section>", "<group>"],
+        "answer": "<section>"
+    },
+    {
+        "number": 56,
+        "question": "56. Qual atributo de uma tag <img> define o caminho do arquivo da imagem?",
+        "options": ["src", "file", "path", "image"],
+        "answer": "src"
+    },
+    {
+        "number": 57,
+        "question": "57. Qual tag HTML é usada para criar uma lista de definição?",
+        "options": ["<ul>", "<ol>", "<dl>", "<list>"],
+        "answer": "<dl>"
+    },
+    {
+        "number": 58,
+        "question": "58. Qual tag HTML é usada para definir a estrutura de um documento?",
+        "options": ["<html>", "<head>", "<body>", "<section>"],
+        "answer": "<html>"
+    },
+    {
+        "number": 59,
+        "question": "59. O que a tag <meta> é usada para definir?",
+        "options": ["Metadados da página", "Imagens de fundo", "Links para CSS", "Scripts de JavaScript"],
+        "answer": "Metadados da página"
+    },
+    {
+        "number": 60,
+        "question": "60. Qual tag é usada para definir uma área de texto de vários parágrafos?",
+        "options": ["<p>", "<text>", "<textarea>", "<field>"],
+        "answer": "<textarea>"
+    }
+]

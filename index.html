@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechQuiz Mastery</title>
+    <link rel="stylesheet" href="css/styles.css"> <!-- Verifique o caminho do CSS -->
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>TechQuiz Mastery</h1>
+        </header>
+        <main>
+            <div id="subject-selection">
+                <h2>Escolha o Assunto</h2>
+                <select id="subject-select">
+                    <option value="internet">Internet</option>
+                    <option value="html">HTML</option>
+                    <option value="css">CSS</option>
+                    <option value="javascript">JavaScript</option>
+                    <option value="logica">Lógica de Programação</option>
+                    <option value="git">Git</option>
+                    <option value="estruturaDeDados">Estrutura de Dados</option>
+                    <option value="poo">POO</option>
+                    <option value="react">React</option>
+                    <option value="ux">UX</option>
+                </select>
+                <button id="start-quiz">Iniciar Quiz</button>
+            </div>
+            <div id="quiz-container" class="hidden">
+                <div id="quiz"></div>
+                <button id="next-question">Próxima Pergunta</button>
+            </div>
+            <div id="result" class="hidden">
+                <h2>Resultado</h2>
+                <p id="score"></p>
+                <button id="restart-quiz">Reiniciar Quiz</button>
+            </div>
+        </main>
+        <footer>
+            <p>Diego Nascimento - Analista e Desenvolvedor de Sistemas</p>
+            <p>GitHub: <a href="https://github.com/seu-username" target="_blank">Seu GitHub</a> | LinkedIn: <a href="https://linkedin.com/in/seu-username" target="_blank">Seu LinkedIn</a></p>
+        </footer>
+    </div>
+    <audio id="background-music" src="https://YOUR_RADIO_STREAM_URL" autoplay loop></audio> <!-- Substitua YOUR_RADIO_STREAM_URL pelo URL correto -->
+    <audio id="correct-sound" src="audio/correct.mp3"></audio>
+    <audio id="wrong-sound" src="audio/incorrect.mp3"></audio>
+    <script src="js/script.js"></script> <!-- Verifique o caminho do JavaScript -->
+</body>
+</html>

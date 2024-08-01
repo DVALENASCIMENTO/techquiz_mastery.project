@@ -1,0 +1,362 @@
+[
+    {
+        "number": 1,
+        "question": "1. O que é JSX?",
+        "options": ["Uma extensão de sintaxe para JavaScript", "Uma linguagem de marcação", "Uma biblioteca CSS", "Um tipo de componente React"],
+        "answer": "Uma extensão de sintaxe para JavaScript"
+    },
+    {
+        "number": 2,
+        "question": "2. Qual comando é usado para criar um novo projeto React?",
+        "options": ["npx create-react-app my-app", "npm create-react-app my-app", "npx create-react my-app", "npm create-react my-app"],
+        "answer": "npx create-react-app my-app"
+    },
+    {
+        "number": 3,
+        "question": "3. O que é um componente de classe em React?",
+        "options": ["Uma classe JavaScript que estende React.Component", "Uma função JavaScript que retorna JSX", "Um método que retorna JSX", "Uma biblioteca externa"],
+        "answer": "Uma classe JavaScript que estende React.Component"
+    },
+    {
+        "number": 4,
+        "question": "4. Como você cria um componente funcional em React?",
+        "options": ["function MyComponent() { return <div>Hello</div>; }", "class MyComponent extends React.Component { render() { return <div>Hello</div>; } }", "const MyComponent = new React.Component({ render() { return <div>Hello</div>; } })", "React.createComponent(function() { return <div>Hello</div>; })"],
+        "answer": "function MyComponent() { return <div>Hello</div>; }"
+    },
+    {
+        "number": 5,
+        "question": "5. O que é o estado (state) em um componente React?",
+        "options": ["Um objeto que determina como aquele componente se comporta e exibe", "Um método de ciclo de vida", "Um evento do DOM", "Uma propriedade passada de pai para filho"],
+        "answer": "Um objeto que determina como aquele componente se comporta e exibe"
+    },
+    {
+        "number": 6,
+        "question": "6. Como você inicializa o estado em um componente de classe?",
+        "options": ["this.state = { count: 0 };", "this.setState({ count: 0 });", "this.initializeState({ count: 0 });", "this.createState({ count: 0 });"],
+        "answer": "this.state = { count: 0 };"
+    },
+    {
+        "number": 7,
+        "question": "7. Qual hook é usado para gerenciar estado em componentes funcionais?",
+        "options": ["useState", "useEffect", "useContext", "useReducer"],
+        "answer": "useState"
+    },
+    {
+        "number": 8,
+        "question": "8. Como você define o estado inicial com o hook useState?",
+        "options": ["const [count, setCount] = useState(0);", "const [count, setCount] = useEffect(0);", "const [count, setCount] = useReducer(0);", "const [count, setCount] = useContext(0);"],
+        "answer": "const [count, setCount] = useState(0);"
+    },
+    {
+        "number": 9,
+        "question": "9. O que é um prop (propriedade) em React?",
+        "options": ["Um valor passado de um componente pai para um componente filho", "Um valor armazenado no estado", "Uma referência a um elemento DOM", "Um método de ciclo de vida"],
+        "answer": "Um valor passado de um componente pai para um componente filho"
+    },
+    {
+        "number": 10,
+        "question": "10. Como você passa props para um componente filho?",
+        "options": ["<ChildComponent propName={propValue} />", "<ChildComponent propName: {propValue} />", "<ChildComponent {propName: propValue} />", "<ChildComponent [propName={propValue}] />"],
+        "answer": "<ChildComponent propName={propValue} />"
+    },
+    {
+        "number": 11,
+        "question": "11. Como você acessa props em um componente funcional?",
+        "options": ["function MyComponent(props) { console.log(props); }", "function MyComponent({ props }) { console.log(props); }", "function MyComponent() { console.log(this.props); }", "function MyComponent(props) { console.log(this.props); }"],
+        "answer": "function MyComponent(props) { console.log(props); }"
+    },
+    {
+        "number": 12,
+        "question": "12. O que é o Virtual DOM?",
+        "options": ["Uma representação leve da árvore DOM real na memória", "A árvore DOM real renderizada no navegador", "Um método de ciclo de vida", "Um hook do React"],
+        "answer": "Uma representação leve da árvore DOM real na memória"
+    },
+    {
+        "number": 13,
+        "question": "13. Qual é a função do método render() em um componente de classe?",
+        "options": ["Retornar o JSX que deve ser renderizado", "Alterar o estado do componente", "Adicionar um evento ao DOM", "Modificar o Virtual DOM"],
+        "answer": "Retornar o JSX que deve ser renderizado"
+    },
+    {
+        "number": 14,
+        "question": "14. O que o método componentDidMount() faz em um componente de classe?",
+        "options": ["É chamado após o componente ser montado no DOM", "É chamado antes do componente ser montado no DOM", "É chamado após o componente ser atualizado", "É chamado antes do componente ser desmontado"],
+        "answer": "É chamado após o componente ser montado no DOM"
+    },
+    {
+        "number": 15,
+        "question": "15. Qual hook pode ser usado para simular componentDidMount() em um componente funcional?",
+        "options": ["useEffect", "useState", "useContext", "useReducer"],
+        "answer": "useEffect"
+    },
+    {
+        "number": 16,
+        "question": "16. Como você pode executar uma função apenas uma vez quando o componente é montado usando useEffect?",
+        "options": ["useEffect(() => { // código }, []);", "useEffect(() => { // código });", "useEffect(() => { // código }, {});", "useEffect(() => { // código }, [null]);"],
+        "answer": "useEffect(() => { // código }, []);"
+    },
+    {
+        "number": 17,
+        "question": "17. O que é um hook personalizado?",
+        "options": ["Uma função JavaScript que usa hooks do React e pode ser reutilizada em diferentes componentes", "Uma função JavaScript que usa classes do React", "Um método de ciclo de vida em componentes de classe", "Uma API para acessar o DOM diretamente"],
+        "answer": "Uma função JavaScript que usa hooks do React e pode ser reutilizada em diferentes componentes"
+    },
+    {
+        "number": 18,
+        "question": "18. Qual é a convenção de nomenclatura para hooks personalizados?",
+        "options": ["Começar com 'use' seguido por uma descrição do que o hook faz", "Começar com 'custom' seguido por uma descrição do que o hook faz", "Começar com 'react' seguido por uma descrição do que o hook faz", "Começar com 'hook' seguido por uma descrição do que o hook faz"],
+        "answer": "Começar com 'use' seguido por uma descrição do que o hook faz"
+    },
+    {
+        "number": 19,
+        "question": "19. Como você cria um contexto em React?",
+        "options": ["React.createContext()", "React.createContext", "React.newContext()", "React.useContext()"],
+        "answer": "React.createContext()"
+    },
+    {
+        "number": 20,
+        "question": "20. Como você fornece um valor de contexto a um componente filho?",
+        "options": ["<MyContext.Provider value={myValue}>", "<MyContext value={myValue}>", "<Provider context={MyContext} value={myValue}>", "<Provider value={myValue}>"],
+        "answer": "<MyContext.Provider value={myValue}>"
+    },
+    {
+        "number": 21,
+        "question": "21. Como você consome um valor de contexto em um componente funcional?",
+        "options": ["const value = useContext(MyContext);", "const value = MyContext();", "const value = consume(MyContext);", "const value = useState(MyContext);"],
+        "answer": "const value = useContext(MyContext);"
+    },
+    {
+        "number": 22,
+        "question": "22. O que é o React Router?",
+        "options": ["Uma biblioteca para gerenciar rotas em uma aplicação React", "Uma biblioteca para gerenciar estado global", "Uma biblioteca para realizar chamadas HTTP", "Uma biblioteca para gerenciar animações"],
+        "answer": "Uma biblioteca para gerenciar rotas em uma aplicação React"
+    },
+    {
+        "number": 23,
+        "question": "23. Como você instala o React Router?",
+        "options": ["npm install react-router-dom", "npm install react-router", "npm install @react-router", "npm install router-react"],
+        "answer": "npm install react-router-dom"
+    },
+    {
+        "number": 24,
+        "question": "24. Como você define uma rota com o React Router?",
+        "options": ["<Route path='/home' component={Home} />", "<Router path='/home' component={Home} />", "<Link path='/home' component={Home} />", "<Switch path='/home' component={Home} />"],
+        "answer": "<Route path='/home' component={Home} />"
+    },
+    {
+        "number": 25,
+        "question": "25. Qual componente você usa para criar links de navegação no React Router?",
+        "options": ["<Link>", "<NavLink>", "<Navigate>", "<RouterLink>"],
+        "answer": "<Link>"
+    },
+    {
+        "number": 26,
+        "question": "26. Como você pode capturar parâmetros de rota no React Router?",
+        "options": ["useParams()", "useRouteMatch()", "useLocation()", "useHistory()"],
+        "answer": "useParams()"
+    },
+    {
+        "number": 27,
+        "question": "27. Como você pode redirecionar programaticamente em uma aplicação React Router?",
+        "options": ["useHistory().push('/path')", "useRouteMatch().push('/path')", "useLocation().push('/path')", "useParams().push('/path')"],
+        "answer": "useHistory().push('/path')"
+    },
+    {
+        "number": 28,
+        "question": "28. O que é Redux?",
+        "options": ["Uma biblioteca para gerenciar estado global em aplicações JavaScript", "Uma biblioteca para gerenciar rotas em aplicações React", "Uma biblioteca para realizar chamadas HTTP", "Uma biblioteca para criar componentes React"],
+        "answer": "Uma biblioteca para gerenciar estado global em aplicações JavaScript"
+    },
+    {
+        "number": 29,
+        "question": "29. Qual função é usada para criar uma store no Redux?",
+        "options": ["createStore()", "applyMiddleware()", "combineReducers()", "bindActionCreators()"],
+        "answer": "createStore()"
+    },
+    {
+        "number": 30,
+        "question": "30. Como você define um reducer no Redux?",
+        "options": ["function reducer(state, action) { // código }", "function reducer(action, state) { // código }", "function reducer(state, context) { // código }", "function reducer(context, action) { // código }"],
+        "answer": "function reducer(state, action) { // código }"
+    },
+    {
+        "number": 31,
+        "question": "31. O que é uma action no Redux?",
+        "options": ["Um objeto que descreve uma mudança a ser feita no estado", "Uma função que altera o estado diretamente", "Um método de ciclo de vida em componentes de classe", "Uma API para acessar o DOM diretamente"],
+        "answer": "Um objeto que descreve uma mudança a ser feita no estado"
+    },
+    {
+        "number": 32,
+        "question": "32. Como você despacha uma action no Redux?",
+        "options": ["store.dispatch(action)", "store.dispatcher(action)", "store.action(action)", "store.reducer(action)"],
+        "answer": "store.dispatch(action)"
+    },
+    {
+        "number": 33,
+        "question": "33. O que é um middleware no Redux?",
+        "options": ["Uma função que pode interceptar actions antes que elas alcancem o reducer", "Uma função que combina vários reducers", "Uma função que altera o estado diretamente", "Uma função que cria a store"],
+        "answer": "Uma função que pode interceptar actions antes que elas alcancem o reducer"
+    },
+    {
+        "number": 34,
+        "question": "34. Como você aplica middleware a uma store Redux?",
+        "options": ["applyMiddleware(middleware1, middleware2)", "applyMiddlewares(middleware1, middleware2)", "createMiddleware(middleware1, middleware2)", "useMiddleware(middleware1, middleware2)"],
+        "answer": "applyMiddleware(middleware1, middleware2)"
+    },
+    {
+        "number": 35,
+        "question": "35. Qual hook é usado para acessar o estado Redux em um componente funcional?",
+        "options": ["useSelector()", "useDispatch()", "useState()", "useContext()"],
+        "answer": "useSelector()"
+    },
+    {
+        "number": 36,
+        "question": "36. Qual hook é usado para despachar actions Redux em um componente funcional?",
+        "options": ["useDispatch()", "useSelector()", "useState()", "useContext()"],
+        "answer": "useDispatch()"
+    },
+    {
+        "number": 37,
+        "question": "37. O que é a Context API?",
+        "options": ["Uma API para gerenciar estado global em aplicações React", "Uma API para gerenciar rotas em aplicações React", "Uma API para realizar chamadas HTTP", "Uma API para criar componentes React"],
+        "answer": "Uma API para gerenciar estado global em aplicações React"
+    },
+    {
+        "number": 38,
+        "question": "38. Qual é a função de `React.memo`?",
+        "options": ["Memorizar um componente funcional para evitar renderizações desnecessárias", "Memorizar um valor de estado", "Memorizar um contexto", "Memorizar uma ação Redux"],
+        "answer": "Memorizar um componente funcional para evitar renderizações desnecessárias"
+    },
+    {
+        "number": 39,
+        "question": "39. Qual é a função de `React.forwardRef`?",
+        "options": ["Encaminhar uma ref para um componente filho", "Encaminhar um valor de estado para um componente filho", "Encaminhar um contexto para um componente filho", "Encaminhar uma action Redux para um componente filho"],
+        "answer": "Encaminhar uma ref para um componente filho"
+    },
+    {
+        "number": 40,
+        "question": "40. O que é um portal em React?",
+        "options": ["Uma maneira de renderizar um componente filho em um nó DOM diferente", "Uma maneira de gerenciar estado global", "Uma maneira de gerenciar rotas", "Uma maneira de criar componentes de classe"],
+        "answer": "Uma maneira de renderizar um componente filho em um nó DOM diferente"
+    },
+    {
+        "number": 41,
+        "question": "41. O que faz o hook `useCallback`?",
+        "options": ["Memoriza uma função para evitar que ela seja recriada em renderizações subsequentes", "Memoriza um valor de estado", "Memoriza um contexto", "Memoriza uma ação Redux"],
+        "answer": "Memoriza uma função para evitar que ela seja recriada em renderizações subsequentes"
+    },
+    {
+        "number": 42,
+        "question": "42. Qual é a função do hook `useMemo`?",
+        "options": ["Memorizar um valor computado para evitar cálculos desnecessários", "Memorizar uma função para evitar que ela seja recriada em renderizações subsequentes", "Memorizar um contexto", "Memorizar uma ação Redux"],
+        "answer": "Memorizar um valor computado para evitar cálculos desnecessários"
+    },
+    {
+        "number": 43,
+        "question": "43. O que é a prop `key` usada para em React?",
+        "options": ["Identificar exclusivamente elementos em uma lista para ajudar o React a otimizar a renderização", "Identificar exclusivamente componentes de classe", "Identificar exclusivamente valores de estado", "Identificar exclusivamente contextos"],
+        "answer": "Identificar exclusivamente elementos em uma lista para ajudar o React a otimizar a renderização"
+    },
+    {
+        "number": 44,
+        "question": "44. Qual é o propósito do hook `useReducer`?",
+        "options": ["Gerenciar estado complexo em um componente funcional", "Gerenciar rotas em um componente funcional", "Gerenciar ações Redux em um componente funcional", "Gerenciar efeitos colaterais em um componente funcional"],
+        "answer": "Gerenciar estado complexo em um componente funcional"
+    },
+    {
+        "number": 45,
+        "question": "45. Como você cria um reducer com o hook `useReducer`?",
+        "options": ["const [state, dispatch] = useReducer(reducer, initialState);", "const [state, dispatch] = useReducer(initialState, reducer);", "const [state, dispatch] = useState(reducer, initialState);", "const [state, dispatch] = useState(initialState, reducer);"],
+        "answer": "const [state, dispatch] = useReducer(reducer, initialState);"
+    },
+    {
+        "number": 46,
+        "question": "46. O que é o hook `useRef` usado para?",
+        "options": ["Criar uma referência mutável que persiste por toda a vida do componente", "Criar uma referência imutável que persiste por toda a vida do componente", "Criar um valor de estado que persiste por toda a vida do componente", "Criar um contexto que persiste por toda a vida do componente"],
+        "answer": "Criar uma referência mutável que persiste por toda a vida do componente"
+    },
+    {
+        "number": 47,
+        "question": "47. Como você pode acessar um elemento DOM diretamente em um componente funcional?",
+        "options": ["Usando o hook `useRef`", "Usando o hook `useState`", "Usando o hook `useEffect`", "Usando o hook `useContext`"],
+        "answer": "Usando o hook `useRef`"
+    },
+    {
+        "number": 48,
+        "question": "48. O que é o hook `useImperativeHandle` usado para?",
+        "options": ["Customizar o valor da ref exposta por um componente", "Customizar o estado de um componente", "Customizar o contexto de um componente", "Customizar as ações Redux de um componente"],
+        "answer": "Customizar o valor da ref exposta por um componente"
+    },
+    {
+        "number": 49,
+        "question": "49. O que é a prop `children` em React?",
+        "options": ["Os elementos filhos passados para um componente", "Os valores de estado passados para um componente", "Os valores de contexto passados para um componente", "As actions Redux passadas para um componente"],
+        "answer": "Os elementos filhos passados para um componente"
+    },
+    {
+        "number": 50,
+        "question": "50. Qual é a função do hook `useLayoutEffect`?",
+        "options": ["Executar efeitos sincronamente após todas as mutações do DOM", "Executar efeitos assincronamente após todas as mutações do DOM", "Executar efeitos antes de todas as mutações do DOM", "Executar efeitos após todas as ações Redux"],
+        "answer": "Executar efeitos sincronamente após todas as mutações do DOM"
+    },
+    {
+        "number": 51,
+        "question": "51. Qual é a diferença entre `useEffect` e `useLayoutEffect`?",
+        "options": ["`useEffect` é executado assincronamente após o render, `useLayoutEffect` é executado sincronamente após o render", "`useEffect` é executado antes do render, `useLayoutEffect` é executado após o render", "`useEffect` é executado sincronamente após o render, `useLayoutEffect` é executado assincronamente após o render", "`useEffect` é executado após o render, `useLayoutEffect` é executado antes do render"],
+        "answer": "`useEffect` é executado assincronamente após o render, `useLayoutEffect` é executado sincronamente após o render"
+    },
+    {
+        "number": 52,
+        "question": "52. Qual hook é utilizado para performance optimization?",
+        "options": ["`useMemo` e `useCallback`", "`useState` e `useReducer`", "`useEffect` e `useLayoutEffect`", "`useContext` e `useRef`"],
+        "answer": "`useMemo` e `useCallback`"
+    },
+    {
+        "number": 53,
+        "question": "53. O que é Suspense em React?",
+        "options": ["Um componente para lidar com carregamento de componentes assíncronos", "Um hook para lidar com estado assíncrono", "Um método de ciclo de vida em componentes de classe", "Uma API para acessar o DOM diretamente"],
+        "answer": "Um componente para lidar com carregamento de componentes assíncronos"
+    },
+    {
+        "number": 54,
+        "question": "54. Como você pode lazy load um componente em React?",
+        "options": ["`React.lazy(() => import('./MyComponent'))`", "`React.lazy(() => require('./MyComponent'))`", "`React.lazy(() => fetch('./MyComponent'))`", "`React.lazy(() => load('./MyComponent'))`"],
+        "answer": "`React.lazy(() => import('./MyComponent'))`"
+    },
+    {
+        "number": 55,
+        "question": "55. O que é o hook `useDebugValue` usado para?",
+        "options": ["Exibir informações de depuração para um hook customizado", "Exibir informações de depuração para um contexto", "Exibir informações de depuração para uma ação Redux", "Exibir informações de depuração para um componente de classe"],
+        "answer": "Exibir informações de depuração para um hook customizado"
+    },
+    {
+        "number": 56,
+        "question": "56. O que é a prop `defaultProps` usada para?",
+        "options": ["Definir valores padrão para props de um componente", "Definir valores padrão para o estado de um componente", "Definir valores padrão para o contexto de um componente", "Definir valores padrão para ações Redux de um componente"],
+        "answer": "Definir valores padrão para props de um componente"
+    },
+    {
+        "number": 57,
+        "question": "57. Como você define prop types em um componente funcional?",
+        "options": ["`MyComponent.propTypes = { ... }`", "`MyComponent.propTypes({ ... })`", "`MyComponent.propTypes = function() { ... }`", "`MyComponent.propTypes({ ... })`"],
+        "answer": "`MyComponent.propTypes = { ... }`"
+    },
+    {
+        "number": 58,
+        "question": "58. O que é a Context API usada para?",
+        "options": ["Compartilhar valores entre componentes sem a necessidade de passar props manualmente", "Compartilhar valores entre componentes através de props", "Compartilhar valores entre componentes através de hooks", "Compartilhar valores entre componentes através de actions Redux"],
+        "answer": "Compartilhar valores entre componentes sem a necessidade de passar props manualmente"
+    },
+    {
+        "number": 59,
+        "question": "59. Qual hook é usado para acessar o valor de um contexto em um componente funcional?",
+        "options": ["useContext()", "useState()", "useEffect()", "useReducer()"],
+        "answer": "useContext()"
+    },
+    {
+        "number": 60,
+        "question": "60. O que é a prop `ref` usada para?",
+        "options": ["Criar uma referência a um elemento DOM ou a um componente React", "Criar uma referência a um estado", "Criar uma referência a um contexto", "Criar uma referência a uma ação Redux"],
+        "answer": "Criar uma referência a um elemento DOM ou a um componente React"
+    }
+]

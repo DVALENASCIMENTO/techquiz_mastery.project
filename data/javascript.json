@@ -1,0 +1,662 @@
+[
+    {
+        "number": 1,
+        "question": "1. O que é JavaScript?",
+        "options": [
+            "Uma linguagem de programação",
+            "Uma biblioteca CSS",
+            "Um banco de dados",
+            "Uma ferramenta de design gráfico"
+        ],
+        "answer": "Uma linguagem de programação"
+    },
+    {
+        "number": 2,
+        "question": "2. Qual é a sintaxe correta para declarar uma variável em JavaScript?",
+        "options": [
+            "var x;",
+            "variable x;",
+            "v x;",
+            "declare x;"
+        ],
+        "answer": "var x;"
+    },
+    {
+        "number": 3,
+        "question": "3. Qual das opções abaixo é um tipo de dado em JavaScript?",
+        "options": [
+            "Número",
+            "String",
+            "Boolean",
+            "Todas as anteriores"
+        ],
+        "answer": "Todas as anteriores"
+    },
+    {
+        "number": 4,
+        "question": "4. O que faz o comando 'console.log()'?",
+        "options": [
+            "Exibe uma mensagem na tela do usuário",
+            "Exibe uma mensagem no console do desenvolvedor",
+            "Cria um alerta",
+            "Nada"
+        ],
+        "answer": "Exibe uma mensagem no console do desenvolvedor"
+    },
+    {
+        "number": 5,
+        "question": "5. Qual é a função do operador '==='?",
+        "options": [
+            "Verifica se dois valores são iguais",
+            "Verifica se dois valores são iguais e do mesmo tipo",
+            "Atribui um valor",
+            "Converte um tipo de dado"
+        ],
+        "answer": "Verifica se dois valores são iguais e do mesmo tipo"
+    },
+    {
+        "number": 6,
+        "question": "6. O que é um array em JavaScript?",
+        "options": [
+            "Uma coleção de dados",
+            "Uma variável que armazena um único valor",
+            "Uma função",
+            "Um objeto"
+        ],
+        "answer": "Uma coleção de dados"
+    },
+    {
+        "number": 7,
+        "question": "7. Como você cria uma função em JavaScript?",
+        "options": [
+            "function minhaFuncao() {}",
+            "func minhaFuncao() {}",
+            "create function minhaFuncao() {}",
+            "def minhaFuncao() {}"
+        ],
+        "answer": "function minhaFuncao() {}"
+    },
+    {
+        "number": 8,
+        "question": "8. O que faz a função 'parseInt()'?",
+        "options": [
+            "Converte uma string em um número inteiro",
+            "Converte um número inteiro em uma string",
+            "Converte uma string em um número decimal",
+            "Não faz nada"
+        ],
+        "answer": "Converte uma string em um número inteiro"
+    },
+    {
+        "number": 9,
+        "question": "9. Qual é o resultado de 'typeof NaN'?",
+        "options": [
+            "number",
+            "undefined",
+            "NaN",
+            "string"
+        ],
+        "answer": "number"
+    },
+    {
+        "number": 10,
+        "question": "10. O que é 'DOM' em JavaScript?",
+        "options": [
+            "Document Object Model",
+            "Document Oriented Model",
+            "Dynamic Object Model",
+            "Digital Object Model"
+        ],
+        "answer": "Document Object Model"
+    },
+    {
+        "number": 11,
+        "question": "11. O que é uma função anônima?",
+        "options": [
+            "Uma função sem nome",
+            "Uma função que não retorna valor",
+            "Uma função que não aceita parâmetros",
+            "Uma função que é chamada imediatamente"
+        ],
+        "answer": "Uma função sem nome"
+    },
+    {
+        "number": 12,
+        "question": "12. O que significa 'this' em JavaScript?",
+        "options": [
+            "Referência ao objeto atual",
+            "Uma função global",
+            "Uma variável local",
+            "Não tem significado"
+        ],
+        "answer": "Referência ao objeto atual"
+    },
+    {
+        "number": 13,
+        "question": "13. O que é 'hoisting' em JavaScript?",
+        "options": [
+            "Movimento de declarações para o topo do escopo",
+            "Um método de otimização de código",
+            "Um tipo de erro",
+            "Uma técnica de programação funcional"
+        ],
+        "answer": "Movimento de declarações para o topo do escopo"
+    },
+    {
+        "number": 14,
+        "question": "14. Qual é a diferença entre 'null' e 'undefined'?",
+        "options": [
+            "'null' é um valor intencional, 'undefined' é um valor não definido",
+            "'null' é um tipo de dado, 'undefined' não é",
+            "'null' é um objeto, 'undefined' é um número",
+            "Não há diferença"
+        ],
+        "answer": "'null' é um valor intencional, 'undefined' é um valor não definido"
+    },
+    {
+        "number": 15,
+        "question": "15. O que faz o método 'Array.push()'?",
+        "options": [
+            "Remove o último elemento de um array",
+            "Adiciona um elemento ao final de um array",
+            "Adiciona um elemento ao início de um array",
+            "Ordena os elementos de um array"
+        ],
+        "answer": "Adiciona um elemento ao final de um array"
+    },
+    {
+        "number": 16,
+        "question": "16. Como você acessa o primeiro elemento de um array chamado 'meuArray'?",
+        "options": [
+            "meuArray[0]",
+            "meuArray[1]",
+            "meuArray.first()",
+            "meuArray.firstElement()"
+        ],
+        "answer": "meuArray[0]"
+    },
+    {
+        "number": 17,
+        "question": "17. O que é um objeto em JavaScript?",
+        "options": [
+            "Uma coleção de propriedades",
+            "Um tipo de dado primitivo",
+            "Uma função",
+            "Um array"
+        ],
+        "answer": "Uma coleção de propriedades"
+    },
+    {
+        "number": 18,
+        "question": "18. Como você define uma propriedade de um objeto em JavaScript?",
+        "options": [
+            "objeto.propriedade = valor;",
+            "objeto[propriedade] = valor;",
+            "Ambas as opções",
+            "Nenhuma das opções"
+        ],
+        "answer": "Ambas as opções"
+    },
+    {
+        "number": 19,
+        "question": "19. O que faz o método 'String.split()'?",
+        "options": [
+            "Divide uma string em um array de substrings",
+            "Converte uma string em letras maiúsculas",
+            "Remove espaços em branco de uma string",
+            "Substitui uma parte da string"
+        ],
+        "answer": "Divide uma string em um array de substrings"
+    },
+    {
+        "number": 20,
+        "question": "20. O que é um 'callback' em JavaScript?",
+        "options": [
+            "Uma função passada como argumento para outra função",
+            "Uma variável que armazena uma função",
+            "Uma função que retorna outra função",
+            "Um erro de execução"
+        ],
+        "answer": "Uma função passada como argumento para outra função"
+    },
+    {
+        "number": 21,
+        "question": "21. O que faz o método 'Math.random()'?",
+        "options": [
+            "Gera um número aleatório entre 0 e 1",
+            "Gera um número inteiro aleatório",
+            "Arredonda um número",
+            "Retorna o maior número"
+        ],
+        "answer": "Gera um número aleatório entre 0 e 1"
+    },
+    {
+        "number": 22,
+        "question": "22. O que é 'event bubbling'?",
+        "options": [
+            "Quando um evento é capturado em um elemento pai",
+            "Quando um evento é cancelado",
+            "Quando um evento é propagado para os filhos",
+            "Quando um evento não ocorre"
+        ],
+        "answer": "Quando um evento é capturado em um elemento pai"
+    },
+    {
+        "number": 23,
+        "question": "23. O que faz o método 'document.getElementById()'?",
+        "options": [
+            "Seleciona um elemento pelo seu ID",
+            "Seleciona todos os elementos com um ID específico",
+            "Seleciona um elemento pelo seu nome",
+            "Seleciona um elemento pela sua classe"
+        ],
+        "answer": "Seleciona um elemento pelo seu ID"
+    },
+    {
+        "number": 24,
+        "question": "24. Como você adiciona um evento de clique a um botão com o ID 'meuBotao'?",
+        "options": [
+            "document.getElementById('meuBotao').onclick = funcao;",
+            "document.getElementById('meuBotao').addEventListener('click', funcao);",
+            "Ambas as opções",
+            "Nenhuma das opções"
+        ],
+        "answer": "Ambas as opções"
+    },
+    {
+        "number": 25,
+        "question": "25. O que é AJAX?",
+        "options": [
+            "Uma técnica para fazer requisições assíncronas",
+            "Uma biblioteca JavaScript",
+            "Um tipo de banco de dados",
+            "Uma função de JavaScript"
+        ],
+        "answer": "Uma técnica para fazer requisições assíncronas"
+    },
+    {
+        "number": 26,
+        "question": "26. O que faz o método 'JSON.stringify()'?",
+        "options": [
+            "Converte um objeto JavaScript em uma string JSON",
+            "Converte uma string JSON em um objeto",
+            "Remove propriedades de um objeto",
+            "Adiciona propriedades a um objeto"
+        ],
+        "answer": "Converte um objeto JavaScript em uma string JSON"
+    },
+    {
+        "number": 27,
+        "question": "27. O que é 'promises' em JavaScript?",
+        "options": [
+            "Uma forma de lidar com operações assíncronas",
+            "Uma função que retorna um valor",
+            "Uma técnica de otimização de código",
+            "Uma estrutura de dados"
+        ],
+        "answer": "Uma forma de lidar com operações assíncronas"
+    },
+    {
+        "number": 28,
+        "question": "28. O que faz o método 'Promise.all()'?",
+        "options": [
+            "Aguarda todas as promessas serem resolvidas",
+            "Rejeita todas as promessas",
+            "Cria uma nova promessa",
+            "Retorna o primeiro resultado"
+        ],
+        "answer": "Aguarda todas as promessas serem resolvidas"
+    },
+    {
+        "number": 29,
+        "question": "29. Como você cria uma classe em JavaScript?",
+        "options": [
+            "class MinhaClasse {}",
+            "function MinhaClasse() {}",
+            "const MinhaClasse = {};",
+            "var MinhaClasse = class {};"
+        ],
+        "answer": "class MinhaClasse {}"
+    },
+    {
+        "number": 30,
+        "question": "30. O que é 'destructuring' em JavaScript?",
+        "options": [
+            "Uma forma de extrair valores de arrays ou objetos",
+            "Uma técnica de otimização de código",
+            "Um tipo de erro",
+            "Uma forma de criar funções"
+        ],
+        "answer": "Uma forma de extrair valores de arrays ou objetos"
+    },
+    {
+        "number": 31,
+        "question": "31. O que faz o operador 'spread' (...)?",
+        "options": [
+            "Expande um array ou objeto em elementos individuais",
+            "Cria um novo array a partir de um existente",
+            "Adiciona elementos a um array",
+            "Remove elementos de um array"
+        ],
+        "answer": "Expande um array ou objeto em elementos individuais"
+    },
+    {
+        "number": 32,
+        "question": "32. O que faz o operador 'rest' (...) em uma função?",
+        "options": [
+            "Agrupa múltiplos argumentos em um array",
+            "Expande um array em elementos individuais",
+            "Cria uma nova função",
+            "Remove argumentos não utilizados"
+        ],
+        "answer": "Agrupa múltiplos argumentos em um array"
+    },
+    {
+        "number": 33,
+        "question": "33. O que é 'async/await'?",
+        "options": [
+            "Uma forma de lidar com operações assíncronas de forma mais simples",
+            "Uma biblioteca JavaScript",
+            "Um tipo de erro",
+            "Uma técnica de programação funcional"
+        ],
+        "answer": "Uma forma de lidar com operações assíncronas de forma mais simples"
+    },
+    {
+        "number": 34,
+        "question": "34. Como você manipula o CSS de um elemento em JavaScript?",
+        "options": [
+            "elemento.style.property = valor;",
+            "elemento.css.property = valor;",
+            "elemento.setAttribute('style', 'property: valor;');",
+            "Ambas as opções"
+        ],
+        "answer": "Ambas as opções"
+    },
+    {
+        "number": 35,
+        "question": "35. O que é uma IIFE (Immediately Invoked Function Expression)?",
+        "options": [
+            "Uma função que é executada imediatamente após sua definição",
+            "Uma função que não retorna valor",
+            "Uma função que aceita argumentos",
+            "Uma função que é chamada várias vezes"
+        ],
+        "answer": "Uma função que é executada imediatamente após sua definição"
+    },
+    {
+        "number": 36,
+        "question": "36. O que faz o método 'setTimeout()'?",
+        "options": [
+            "Executa uma função após um determinado tempo",
+            "Executa uma função repetidamente",
+            "Cancela uma função",
+            "Não faz nada"
+        ],
+        "answer": "Executa uma função após um determinado tempo"
+    },
+    {
+        "number": 37,
+        "question": "37. O que faz o método 'setInterval()'?",
+        "options": [
+            "Executa uma função repetidamente em um intervalo de tempo",
+            "Executa uma função apenas uma vez",
+            "Cancela uma função",
+            "Não faz nada"
+        ],
+        "answer": "Executa uma função repetidamente em um intervalo de tempo"
+    },
+    {
+        "number": 38,
+        "question": "38. O que significa 'CORS'?",
+        "options": [
+            "Cross-Origin Resource Sharing",
+            "Cross-Origin Request Security",
+            "Cross-Resource Object Sharing",
+            "Cross-Origin Restriction Standard"
+        ],
+        "answer": "Cross-Origin Resource Sharing"
+    },
+    {
+        "number": 39,
+        "question": "39. O que é um evento 'click'?",
+        "options": [
+            "Um tipo de evento que ocorre quando um elemento é clicado",
+            "Um tipo de erro",
+            "Uma função que é chamada ao clicar",
+            "Um método de animação"
+        ],
+        "answer": "Um tipo de evento que ocorre quando um elemento é clicado"
+    },
+    {
+        "number": 40,
+        "question": "40. O que é 'localStorage'?",
+        "options": [
+            "Uma forma de armazenar dados no navegador",
+            "Uma biblioteca JavaScript",
+            "Um tipo de banco de dados",
+            "Um objeto"
+        ],
+        "answer": "Uma forma de armazenar dados no navegador"
+    },
+    {
+        "number": 41,
+        "question": "41. O que faz o método 'localStorage.setItem()'?",
+        "options": [
+            "Armazena um valor com uma chave específica",
+            "Remove um item do armazenamento local",
+            "Recupera um valor do armazenamento local",
+            "Limpa todos os dados armazenados"
+        ],
+        "answer": "Armazena um valor com uma chave específica"
+    },
+    {
+        "number": 42,
+        "question": "42. O que é 'sessionStorage'?",
+        "options": [
+            "Uma forma de armazenar dados apenas durante uma sessão",
+            "Uma forma de armazenar dados no navegador permanentemente",
+            "Um tipo de banco de dados",
+            "Uma biblioteca JavaScript"
+        ],
+        "answer": "Uma forma de armazenar dados apenas durante uma sessão"
+    },
+    {
+        "number": 43,
+        "question": "43. O que faz o método 'fetch()'?",
+        "options": [
+            "Faz uma requisição HTTP",
+            "Manipula dados do DOM",
+            "Executa uma função assíncrona",
+            "Não faz nada"
+        ],
+        "answer": "Faz uma requisição HTTP"
+    },
+    {
+        "number": 44,
+        "question": "44. O que é 'Webpack'?",
+        "options": [
+            "Um empacotador de módulos JavaScript",
+            "Uma biblioteca JavaScript",
+            "Uma ferramenta de animação",
+            "Um editor de código"
+        ],
+        "answer": "Um empacotador de módulos JavaScript"
+    },
+    {
+        "number": 45,
+        "question": "45. O que é 'Node.js'?",
+        "options": [
+            "Um ambiente de execução JavaScript no lado do servidor",
+            "Uma biblioteca JavaScript",
+            "Uma ferramenta de design",
+            "Um tipo de banco de dados"
+        ],
+        "answer": "Um ambiente de execução JavaScript no lado do servidor"
+    },
+    {
+        "number": 46,
+        "question": "46. O que é 'npm'?",
+        "options": [
+            "Um gerenciador de pacotes para JavaScript",
+            "Uma biblioteca JavaScript",
+            "Um editor de código",
+            "Uma ferramenta de design"
+        ],
+        "answer": "Um gerenciador de pacotes para JavaScript"
+    },
+    {
+        "number": 47,
+        "question": "47. O que é 'TypeScript'?",
+        "options": [
+            "Uma linguagem de programação que é um superconjunto de JavaScript",
+            "Uma biblioteca JavaScript",
+            "Um framework",
+            "Um tipo de banco de dados"
+        ],
+        "answer": "Uma linguagem de programação que é um superconjunto de JavaScript"
+    },
+    {
+        "number": 48,
+        "question": "48. O que é 'jQuery'?",
+        "options": [
+            "Uma biblioteca JavaScript para facilitar a manipulação do DOM",
+            "Uma linguagem de programação",
+            "Um tipo de banco de dados",
+            "Um framework"
+        ],
+        "answer": "Uma biblioteca JavaScript para facilitar a manipulação do DOM"
+    },
+    {
+        "number": 49,
+        "question": "49. O que faz o método 'addEventListener()'?",
+        "options": [
+            "Adiciona um listener para um evento",
+            "Remove um listener para um evento",
+            "Copia um evento",
+            "Não faz nada"
+        ],
+        "answer": "Adiciona um listener para um evento"
+    },
+    {
+        "number": 50,
+        "question": "50. O que é 'template literals'?",
+        "options": [
+            "Uma forma de criar strings com interpolação",
+            "Uma biblioteca JavaScript",
+            "Um tipo de erro",
+            "Uma função"
+        ],
+        "answer": "Uma forma de criar strings com interpolação"
+    },
+    {
+        "number": 51,
+        "question": "51. O que faz o operador '??' (nullish coalescing)?",
+        "options": [
+            "Retorna o primeiro operando que não é null ou undefined",
+            "Retorna o primeiro operando que é verdadeiro",
+            "Realiza uma operação de soma",
+            "Não faz nada"
+        ],
+        "answer": "Retorna o primeiro operando que não é null ou undefined"
+    },
+    {
+        "number": 52,
+        "question": "52. O que faz o operador '||' (logical OR)?",
+        "options": [
+            "Retorna o primeiro operando que é verdadeiro",
+            "Retorna o primeiro operando que não é null ou undefined",
+            "Realiza uma operação de soma",
+            "Não faz nada"
+        ],
+        "answer": "Retorna o primeiro operando que é verdadeiro"
+    },
+    {
+        "number": 53,
+        "question": "53. O que faz o método 'slice()' em um array?",
+        "options": [
+            "Retorna uma cópia de uma parte do array",
+            "Adiciona um elemento ao final do array",
+            "Remove o último elemento do array",
+            "Ordena os elementos do array"
+        ],
+        "answer": "Retorna uma cópia de uma parte do array"
+    },
+    {
+        "number": 54,
+        "question": "54. O que faz o método 'map()' em um array?",
+        "options": [
+            "Cria um novo array com os resultados da aplicação de uma função a cada elemento",
+            "Filtra elementos do array",
+            "Remove elementos do array",
+            "Ordena os elementos do array"
+        ],
+        "answer": "Cria um novo array com os resultados da aplicação de uma função a cada elemento"
+    },
+    {
+        "number": 55,
+        "question": "55. O que faz o método 'filter()' em um array?",
+        "options": [
+            "Cria um novo array com elementos que passam em um teste",
+            "Remove elementos do array",
+            "Ordena os elementos do array",
+            "Cria uma cópia do array"
+        ],
+        "answer": "Cria um novo array com elementos que passam em um teste"
+    },
+    {
+        "number": 56,
+        "question": "56. O que faz o método 'reduce()' em um array?",
+        "options": [
+            "Aplica uma função contra um acumulador e cada elemento do array",
+            "Filtra elementos do array",
+            "Remove elementos do array",
+            "Ordena os elementos do array"
+        ],
+        "answer": "Aplica uma função contra um acumulador e cada elemento do array"
+    },
+    {
+        "number": 57,
+        "question": "57. O que faz o método 'join()' em um array?",
+        "options": [
+            "Une todos os elementos do array em uma string",
+            "Divide um array em elementos separados",
+            "Adiciona um elemento ao final do array",
+            "Remove o último elemento do array"
+        ],
+        "answer": "Une todos os elementos do array em uma string"
+    },
+    {
+        "number": 58,
+        "question": "58. O que faz o método 'find()' em um array?",
+        "options": [
+            "Retorna o primeiro elemento que satisfaz uma condição",
+            "Filtra todos os elementos que satisfazem uma condição",
+            "Remove um elemento do array",
+            "Ordena os elementos do array"
+        ],
+        "answer": "Retorna o primeiro elemento que satisfaz uma condição"
+    },
+    {
+        "number": 59,
+        "question": "59. O que é uma closure em JavaScript?",
+        "options": [
+            "Uma função que lembra seu escopo lexical",
+            "Uma função que não retorna valor",
+            "Uma técnica de otimização de código",
+            "Um tipo de erro"
+        ],
+        "answer": "Uma função que lembra seu escopo lexical"
+    },
+    {
+        "number": 60,
+        "question": "60. O que é o método 'Object.keys()'?",
+        "options": [
+            "Retorna um array com os nomes das propriedades de um objeto",
+            "Adiciona uma nova propriedade a um objeto",
+            "Remove uma propriedade de um objeto",
+            "Verifica se uma propriedade existe em um objeto"
+        ],
+        "answer": "Retorna um array com os nomes das propriedades de um objeto"
+    }
+]

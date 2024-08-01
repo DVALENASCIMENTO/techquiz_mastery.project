@@ -1,0 +1,362 @@
+[
+    {
+        "number": 1,
+        "question": "1. O que é a Internet?",
+        "options": ["Uma rede de computadores interconectados", "Um tipo de software", "Um protocolo de comunicação", "Um servidor web"],
+        "answer": "Uma rede de computadores interconectados"
+    },
+    {
+        "number": 2,
+        "question": "2. O que significa HTTP?",
+        "options": ["HyperText Transfer Protocol", "High Text Transfer Protocol", "Hyperlink Transfer Protocol", "High Text Transmission Protocol"],
+        "answer": "HyperText Transfer Protocol"
+    },
+    {
+        "number": 3,
+        "question": "3. O que é um endereço IP?",
+        "options": ["Identificador único de um dispositivo na rede", "Um tipo de servidor", "Uma técnica de criptografia", "Um software de rede"],
+        "answer": "Identificador único de um dispositivo na rede"
+    },
+    {
+        "number": 4,
+        "question": "4. O que é DNS?",
+        "options": ["Sistema de Nomes de Domínio", "Sistema de Nomes de Servidor", "Sistema de Navegação de Sites", "Sistema de Números de Domínio"],
+        "answer": "Sistema de Nomes de Domínio"
+    },
+    {
+        "number": 5,
+        "question": "5. Qual a principal função do protocolo TCP?",
+        "options": ["Garantir a entrega correta dos pacotes de dados", "Encriptar dados", "Gerenciar endereços IP", "Transmitir e-mails"],
+        "answer": "Garantir a entrega correta dos pacotes de dados"
+    },
+    {
+        "number": 6,
+        "question": "6. O que é um firewall?",
+        "options": ["Dispositivo de segurança que controla o tráfego de rede", "Tipo de servidor web", "Protocolo de comunicação", "Sistema de e-mail"],
+        "answer": "Dispositivo de segurança que controla o tráfego de rede"
+    },
+    {
+        "number": 7,
+        "question": "7. O que é o protocolo FTP?",
+        "options": ["Protocolo de Transferência de Arquivos", "Protocolo de Transferência de Dados", "Protocolo de Comunicação Web", "Protocolo de Gerenciamento de E-mail"],
+        "answer": "Protocolo de Transferência de Arquivos"
+    },
+    {
+        "number": 8,
+        "question": "8. O que é um roteador?",
+        "options": ["Dispositivo que direciona pacotes de dados entre redes", "Dispositivo que armazena dados", "Dispositivo que gera conexões Wi-Fi", "Dispositivo de segurança de rede"],
+        "answer": "Dispositivo que direciona pacotes de dados entre redes"
+    },
+    {
+        "number": 9,
+        "question": "9. O que significa URL?",
+        "options": ["Uniform Resource Locator", "Universal Resource Locator", "Uniform Resource Link", "Universal Resource Link"],
+        "answer": "Uniform Resource Locator"
+    },
+    {
+        "number": 10,
+        "question": "10. O que significa 'ping' em redes?",
+        "options": ["Uma ferramenta para testar conectividade de rede", "Um protocolo de comunicação", "Uma técnica de criptografia", "Um tipo de firewall"],
+        "answer": "Uma ferramenta para testar conectividade de rede"
+    },
+    {
+        "number": 11,
+        "question": "11. O que é um pacote de dados?",
+        "options": ["Unidade de dados transmitida em redes", "Um tipo de servidor", "Uma técnica de criptografia", "Um endereço IP"],
+        "answer": "Unidade de dados transmitida em redes"
+    },
+    {
+        "number": 12,
+        "question": "12. O que é a camada de aplicação no modelo OSI?",
+        "options": ["Camada responsável pela interface com o usuário e serviços de rede", "Camada de transmissão de dados", "Camada de roteamento", "Camada de criptografia"],
+        "answer": "Camada responsável pela interface com o usuário e serviços de rede"
+    },
+    {
+        "number": 13,
+        "question": "13. Qual é a função do protocolo DHCP?",
+        "options": ["Atribuir endereços IP automaticamente", "Transferir arquivos", "Navegar na web", "Monitorar a segurança"],
+        "answer": "Atribuir endereços IP automaticamente"
+    },
+    {
+        "number": 14,
+        "question": "14. O que é uma VPN?",
+        "options": ["Rede Privada Virtual", "Protocolo de comunicação", "Serviço de e-mail", "Endereço IP"],
+        "answer": "Rede Privada Virtual"
+    },
+    {
+        "number": 15,
+        "question": "15. Qual é a função de um switch em redes Ethernet?",
+        "options": ["Gerenciar o tráfego de dados entre dispositivos na mesma rede", "Direcionar pacotes entre redes diferentes", "Armazenar dados", "Criptografar informações"],
+        "answer": "Gerenciar o tráfego de dados entre dispositivos na mesma rede"
+    },
+    {
+        "number": 16,
+        "question": "16. O que é a técnica de NAT?",
+        "options": ["Tradução de Endereços de Rede", "Uma forma de criptografia", "Um protocolo de comunicação", "Um tipo de firewall"],
+        "answer": "Tradução de Endereços de Rede"
+    },
+    {
+        "number": 17,
+        "question": "17. O que significa 'latência' em redes?",
+        "options": ["Tempo de atraso na transmissão de dados", "Quantidade de dados transmitidos", "Largura de banda", "Velocidade de conexão"],
+        "answer": "Tempo de atraso na transmissão de dados"
+    },
+    {
+        "number": 18,
+        "question": "18. Qual é a função de um gateway?",
+        "options": ["Conectar diferentes redes", "Gerenciar o tráfego dentro da mesma rede", "Armazenar dados", "Monitorar a segurança"],
+        "answer": "Conectar diferentes redes"
+    },
+    {
+        "number": 19,
+        "question": "19. O que é a técnica de multiplexação?",
+        "options": ["Método de transmitir múltiplos sinais em um único canal de comunicação", "Uma forma de criptografia", "Uma técnica de compressão de dados", "Um tipo de firewall"],
+        "answer": "Método de transmitir múltiplos sinais em um único canal de comunicação"
+    },
+    {
+        "number": 20,
+        "question": "20. Qual é a função do protocolo ARP?",
+        "options": ["Resolver endereços IP em endereços MAC", "Transmitir dados em redes", "Armazenar informações de rede", "Segurança de rede"],
+        "answer": "Resolver endereços IP em endereços MAC"
+    },
+    {
+        "number": 21,
+        "question": "21. O que é uma rede LAN?",
+        "options": ["Rede Local de Área", "Rede de Longa Distância", "Rede de Área Metropolitano", "Rede de Computadores Pessoais"],
+        "answer": "Rede Local de Área"
+    },
+    {
+        "number": 22,
+        "question": "22. O que é uma rede WAN?",
+        "options": ["Rede de Área Ampla", "Rede de Computadores Pessoais", "Rede Local de Área", "Rede de Área Metropolitano"],
+        "answer": "Rede de Área Ampla"
+    },
+    {
+        "number": 23,
+        "question": "23. O que é um certificado SSL?",
+        "options": ["Uma tecnologia de criptografia para garantir conexões seguras", "Um protocolo de comunicação", "Uma técnica de compressão de dados", "Um tipo de firewall"],
+        "answer": "Uma tecnologia de criptografia para garantir conexões seguras"
+    },
+    {
+        "number": 24,
+        "question": "24. Qual protocolo é usado para comunicação segura na web?",
+        "options": ["HTTP", "FTP", "SMTP", "HTTPS"],
+        "answer": "HTTPS"
+    },
+    {
+        "number": 25,
+        "question": "25. O que significa 'QoS' em redes?",
+        "options": ["Qualidade de Serviço", "Quantidade de Dados", "Quantidade de Segurança", "Qualidade de Segurança"],
+        "answer": "Qualidade de Serviço"
+    },
+    {
+        "number": 26,
+        "question": "26. Qual é a função do protocolo IMAP?",
+        "options": ["Gerenciar e-mails armazenados no servidor", "Enviar e-mails", "Transferir arquivos", "Armazenar dados"],
+        "answer": "Gerenciar e-mails armazenados no servidor"
+    },
+    {
+        "number": 27,
+        "question": "27. O que é um ataque DDoS?",
+        "options": ["Ataque Distribuído de Negação de Serviço", "Um tipo de protocolo de comunicação", "Um método de criptografia", "Um tipo de firewall"],
+        "answer": "Ataque Distribuído de Negação de Serviço"
+    },
+    {
+        "number": 28,
+        "question": "28. Qual é a função do protocolo SMTP?",
+        "options": ["Enviar e-mails", "Gerenciar e-mails armazenados no servidor", "Transferir arquivos", "Transmitir dados em redes"],
+        "answer": "Enviar e-mails"
+    },
+    {
+        "number": 29,
+        "question": "29. O que é um servidor proxy?",
+        "options": ["Servidor intermediário que facilita a comunicação entre cliente e servidor", "Um tipo de firewall", "Um protocolo de comunicação", "Uma técnica de criptografia"],
+        "answer": "Servidor intermediário que facilita a comunicação entre cliente e servidor"
+    },
+    {
+        "number": 30,
+        "question": "30. O que é um endereço MAC?",
+        "options": ["Endereço único atribuído a interfaces de rede", "Um tipo de servidor", "Um endereço IP", "Um protocolo de comunicação"],
+        "answer": "Endereço único atribuído a interfaces de rede"
+    },
+    {
+        "number": 31,
+        "question": "31. Qual é a função do protocolo SNMP?",
+        "options": ["Gerenciar e monitorar dispositivos de rede", "Transferir arquivos", "Enviar e-mails", "Criptografar dados"],
+        "answer": "Gerenciar e monitorar dispositivos de rede"
+    },
+    {
+        "number": 32,
+        "question": "32. O que é uma VLAN?",
+        "options": ["Rede Local Virtual", "Rede de Área Ampla Virtual", "Rede de Área Metropolitano", "Rede Local de Computadores"],
+        "answer": "Rede Local Virtual"
+    },
+    {
+        "number": 33,
+        "question": "33. Qual é a função do protocolo POP3?",
+        "options": ["Baixar e-mails do servidor para o cliente", "Enviar e-mails", "Gerenciar e-mails armazenados no servidor", "Transferir arquivos"],
+        "answer": "Baixar e-mails do servidor para o cliente"
+    },
+    {
+        "number": 34,
+        "question": "34. O que é um ataque 'phishing'?",
+        "options": ["Tentativa de obter informações sensíveis através de engano", "Um tipo de protocolo de comunicação", "Uma técnica de criptografia", "Um tipo de firewall"],
+        "answer": "Tentativa de obter informações sensíveis através de engano"
+    },
+    {
+        "number": 35,
+        "question": "35. O que significa 'bandwidth' em redes?",
+        "options": ["Capacidade máxima de transmissão de dados", "Largura de um cabo de rede", "Número de dispositivos conectados", "Velocidade de processamento"],
+        "answer": "Capacidade máxima de transmissão de dados"
+    },
+    {
+        "number": 36,
+        "question": "36. O que é um protocolo de camada de transporte?",
+        "options": ["Protocolo responsável pela entrega confiável de dados entre aplicações", "Protocolo para comunicação entre redes", "Protocolo para gerenciamento de endereços IP", "Protocolo de criptografia"],
+        "answer": "Protocolo responsável pela entrega confiável de dados entre aplicações"
+    },
+    {
+        "number": 37,
+        "question": "37. Qual protocolo é usado para comunicação de vídeo em tempo real?",
+        "options": ["UDP", "TCP", "SMTP", "HTTP"],
+        "answer": "UDP"
+    },
+    {
+        "number": 38,
+        "question": "38. O que é o protocolo ICMP?",
+        "options": ["Protocolo para enviar mensagens de erro e diagnóstico em redes", "Protocolo de transferência de arquivos", "Protocolo de comunicação web", "Protocolo de roteamento"],
+        "answer": "Protocolo para enviar mensagens de erro e diagnóstico em redes"
+    },
+    {
+        "number": 39,
+        "question": "39. O que é um 'subnet mask'?",
+        "options": ["Máscara de Sub-rede usada para dividir redes em sub-redes menores", "Tipo de servidor", "Protocolo de comunicação", "Sistema de criptografia"],
+        "answer": "Máscara de Sub-rede usada para dividir redes em sub-redes menores"
+    },
+    {
+        "number": 40,
+        "question": "40. Qual protocolo é usado para comunicação segura em e-mails?",
+        "options": ["IMAP", "SMTP", "POP3", "SMTPS"],
+        "answer": "SMTPS"
+    },
+    {
+        "number": 41,
+        "question": "41. O que é um 'load balancer'?",
+        "options": ["Dispositivo ou software que distribui a carga de trabalho entre vários servidores", "Um tipo de firewall", "Protocolo de comunicação", "Sistema de e-mail"],
+        "answer": "Dispositivo ou software que distribui a carga de trabalho entre vários servidores"
+    },
+    {
+        "number": 42,
+        "question": "42. O que é um 'proxy server'?",
+        "options": ["Servidor que atua como intermediário entre um cliente e o servidor", "Tipo de firewall", "Protocolo de comunicação", "Sistema de criptografia"],
+        "answer": "Servidor que atua como intermediário entre um cliente e o servidor"
+    },
+    {
+        "number": 43,
+        "question": "43. Qual é a função do protocolo BGP?",
+        "options": ["Gerenciar roteamento entre diferentes sistemas autônomos", "Gerenciar endereços IP", "Transferir arquivos", "Navegar na web"],
+        "answer": "Gerenciar roteamento entre diferentes sistemas autônomos"
+    },
+    {
+        "number": 44,
+        "question": "44. O que é uma 'redes mesh'?",
+        "options": ["Tipo de rede onde todos os dispositivos estão interconectados", "Uma técnica de criptografia", "Um protocolo de comunicação", "Um tipo de firewall"],
+        "answer": "Tipo de rede onde todos os dispositivos estão interconectados"
+    },
+    {
+        "number": 45,
+        "question": "45. O que é 'latência' em redes?",
+        "options": ["Tempo de atraso na transmissão de dados", "Capacidade máxima de transmissão de dados", "Número de pacotes transmitidos", "Velocidade de conexão"],
+        "answer": "Tempo de atraso na transmissão de dados"
+    },
+    {
+        "number": 46,
+        "question": "46. O que é uma rede P2P?",
+        "options": ["Rede ponto a ponto onde os dispositivos se comunicam diretamente", "Uma rede local", "Uma rede de longa distância", "Uma rede de área metropolitana"],
+        "answer": "Rede ponto a ponto onde os dispositivos se comunicam diretamente"
+    },
+    {
+        "number": 47,
+        "question": "47. Qual protocolo é usado para enviar dados em transmissões de vídeo ao vivo?",
+        "options": ["RTSP", "FTP", "HTTP", "SMTP"],
+        "answer": "RTSP"
+    },
+    {
+        "number": 48,
+        "question": "48. O que é uma 'tabela de roteamento'?",
+        "options": ["Estrutura de dados usada para decidir a melhor rota para pacotes de dados", "Um tipo de firewall", "Um servidor de e-mail", "Um protocolo de comunicação"],
+        "answer": "Estrutura de dados usada para decidir a melhor rota para pacotes de dados"
+    },
+    {
+        "number": 49,
+        "question": "49. O que é a técnica de 'QoS' em redes?",
+        "options": ["Gerenciar a qualidade do serviço de rede", "Aumentar a velocidade de conexão", "Armazenar dados", "Proteger contra ataques"],
+        "answer": "Gerenciar a qualidade do serviço de rede"
+    },
+    {
+        "number": 50,
+        "question": "50. O que é um 'firewall' de aplicação?",
+        "options": ["Dispositivo que protege aplicações web de ataques", "Tipo de servidor", "Protocolo de comunicação", "Método de criptografia"],
+        "answer": "Dispositivo que protege aplicações web de ataques"
+    },
+    {
+        "number": 51,
+        "question": "51. Qual é a função do protocolo NTP?",
+        "options": ["Sincronizar o relógio dos sistemas de rede", "Gerenciar e-mails", "Transferir arquivos", "Navegar na web"],
+        "answer": "Sincronizar o relógio dos sistemas de rede"
+    },
+    {
+        "number": 52,
+        "question": "52. O que é um 'vlan trunking'?",
+        "options": ["Método de transportar múltiplas VLANs através de um link físico", "Tipo de firewall", "Protocolo de comunicação", "Método de criptografia"],
+        "answer": "Método de transportar múltiplas VLANs através de um link físico"
+    },
+    {
+        "number": 53,
+        "question": "53. Qual protocolo é utilizado para criar e gerenciar redes virtuais privadas (VPNs)?",
+        "options": ["L2TP", "HTTP", "SMTP", "FTP"],
+        "answer": "L2TP"
+    },
+    {
+        "number": 54,
+        "question": "54. O que é um 'port scanner'?",
+        "options": ["Ferramenta usada para identificar portas abertas em um dispositivo", "Tipo de servidor", "Protocolo de comunicação", "Sistema de criptografia"],
+        "answer": "Ferramenta usada para identificar portas abertas em um dispositivo"
+    },
+    {
+        "number": 55,
+        "question": "55. O que é uma 'network topology'?",
+        "options": ["Disposição física ou lógica dos dispositivos em uma rede", "Um tipo de firewall", "Um protocolo de comunicação", "Uma técnica de criptografia"],
+        "answer": "Disposição física ou lógica dos dispositivos em uma rede"
+    },
+    {
+        "number": 56,
+        "question": "56. O que é o protocolo 'SFTP'?",
+        "options": ["Versão segura do protocolo FTP", "Protocolo de e-mail", "Protocolo de comunicação de vídeo", "Protocolo de roteamento"],
+        "answer": "Versão segura do protocolo FTP"
+    },
+    {
+        "number": 57,
+        "question": "57. O que é um 'attack vector'?",
+        "options": ["Método ou caminho usado para realizar um ataque cibernético", "Tipo de servidor", "Protocolo de comunicação", "Método de criptografia"],
+        "answer": "Método ou caminho usado para realizar um ataque cibernético"
+    },
+    {
+        "number": 58,
+        "question": "58. O que significa 'packet sniffing'?",
+        "options": ["Técnica de monitoramento de tráfego de rede", "Protocolo de comunicação", "Tipo de firewall", "Método de criptografia"],
+        "answer": "Técnica de monitoramento de tráfego de rede"
+    },
+    {
+        "number": 59,
+        "question": "59. Qual é a função de um 'IDS'?",
+        "options": ["Sistema de Detecção de Intrusões", "Sistema de prevenção de perda de dados", "Sistema de gerenciamento de rede", "Sistema de monitoramento de desempenho"],
+        "answer": "Sistema de Detecção de Intrusões"
+    },
+    {
+        "number": 60,
+        "question": "60. O que é um 'data breach'?",
+        "options": ["Incidente onde informações confidenciais são acessadas sem autorização", "Uma técnica de criptografia", "Um tipo de servidor", "Um protocolo de comunicação"],
+        "answer": "Incidente onde informações confidenciais são acessadas sem autorização"
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "number": 1,
+        "question": "1. O que significa CSS?",
+        "options": ["Cascading Style Sheets", "Computer Style Sheets", "Creative Style Sheets", "Cascading System Sheets"],
+        "answer": "Cascading Style Sheets"
+    },
+    {
+        "number": 2,
+        "question": "2. Qual é a sintaxe correta para selecionar todos os parágrafos em CSS?",
+        "options": ["p { color: blue; }", "#p { color: blue; }", ".p { color: blue; }", "*p { color: blue; }"],
+        "answer": "p { color: blue; }"
+    },
+    {
+        "number": 3,
+        "question": "3. Qual é o seletor CSS para um elemento com uma classe chamada 'header'?",
+        "options": ["header", ".header", "#header", "*header"],
+        "answer": ".header"
+    },
+    {
+        "number": 4,
+        "question": "4. Como você seleciona um elemento com um ID chamado 'main'?",
+        "options": [".main", "#main", "main", "*main"],
+        "answer": "#main"
+    },
+    {
+        "number": 5,
+        "question": "5. Qual unidade de medida é relativa ao tamanho da fonte do elemento pai?",
+        "options": ["px", "em", "rem", "%"],
+        "answer": "em"
+    },
+    {
+        "number": 6,
+        "question": "6. Qual é a propriedade CSS usada para definir a cor de fundo de um elemento?",
+        "options": ["background-color", "color", "bgcolor", "background"],
+        "answer": "background-color"
+    },
+    {
+        "number": 7,
+        "question": "7. Como você define a margem superior de um elemento para 20 pixels?",
+        "options": ["margin-top: 20px;", "top-margin: 20px;", "padding-top: 20px;", "margin: 20px 0 0 0;"],
+        "answer": "margin-top: 20px;"
+    },
+    {
+        "number": 8,
+        "question": "8. Qual propriedade CSS controla o espaçamento interno de um elemento?",
+        "options": ["padding", "margin", "border", "spacing"],
+        "answer": "padding"
+    },
+    {
+        "number": 9,
+        "question": "9. Qual unidade de medida é usada para a altura da janela de visualização?",
+        "options": ["vw", "vh", "px", "em"],
+        "answer": "vh"
+    },
+    {
+        "number": 10,
+        "question": "10. Qual é a propriedade CSS para definir a borda de um elemento?",
+        "options": ["border", "border-width", "border-style", "border-color"],
+        "answer": "border"
+    },
+    {
+        "number": 11,
+        "question": "11. Qual é o seletor CSS para selecionar todos os elementos de um tipo específico dentro de uma classe?",
+        "options": [".class element", "element.class", "class element", "element .class"],
+        "answer": ".class element"
+    },
+    {
+        "number": 12,
+        "question": "12. Qual propriedade CSS você usa para definir a largura de um elemento?",
+        "options": ["width", "height", "size", "length"],
+        "answer": "width"
+    },
+    {
+        "number": 13,
+        "question": "13. Como você faz um texto ficar em negrito?",
+        "options": ["font-weight: bold;", "text-transform: bold;", "font-style: bold;", "text-weight: bold;"],
+        "answer": "font-weight: bold;"
+    },
+    {
+        "number": 14,
+        "question": "14. Qual é o seletor CSS para aplicar estilos a um link quando o mouse está sobre ele?",
+        "options": ["a:hover", "a:active", "a:focus", "a:visited"],
+        "answer": "a:hover"
+    },
+    {
+        "number": 15,
+        "question": "15. Qual é a propriedade CSS usada para definir o tamanho da fonte?",
+        "options": ["font-size", "text-size", "font-style", "size"],
+        "answer": "font-size"
+    },
+    {
+        "number": 16,
+        "question": "16. Qual é o seletor CSS para aplicar estilos a todos os elementos dentro de um elemento com a classe 'container'?",
+        "options": [".container *", "* .container", ".container > *", ".container"],
+        "answer": ".container *"
+    },
+    {
+        "number": 17,
+        "question": "17. Como você remove o sublinhado de um link?",
+        "options": ["text-decoration: none;", "text-transform: none;", "border: none;", "font-style: none;"],
+        "answer": "text-decoration: none;"
+    },
+    {
+        "number": 18,
+        "question": "18. Qual propriedade CSS altera o tipo de fonte de um texto?",
+        "options": ["font-family", "font-type", "text-font", "font-style"],
+        "answer": "font-family"
+    },
+    {
+        "number": 19,
+        "question": "19. Qual é a propriedade CSS para aplicar uma cor ao texto?",
+        "options": ["color", "text-color", "font-color", "background-color"],
+        "answer": "color"
+    },
+    {
+        "number": 20,
+        "question": "20. Qual é a sintaxe correta para definir uma borda de 2 pixels de largura, sólida e vermelha?",
+        "options": ["border: 2px solid red;", "border-width: 2px; border-style: solid; border-color: red;", "border: 2px red solid;", "border: solid red 2px;"],
+        "answer": "border: 2px solid red;"
+    },
+    {
+        "number": 21,
+        "question": "21. Qual propriedade CSS controla a exibição de um elemento como bloco ou inline?",
+        "options": ["display", "visibility", "position", "float"],
+        "answer": "display"
+    },
+    {
+        "number": 22,
+        "question": "22. Qual é a diferença entre 'padding' e 'margin'?",
+        "options": ["padding é o espaço interno e margin é o espaço externo.", "padding é o espaço externo e margin é o espaço interno.", "Ambos são usados para o mesmo propósito.", "padding e margin não existem no CSS."],
+        "answer": "padding é o espaço interno e margin é o espaço externo."
+    },
+    {
+        "number": 23,
+        "question": "23. Como você faz um elemento ocupar toda a largura da tela?",
+        "options": ["width: 100%;", "width: 100vw;", "width: 100px;", "width: 100em;"],
+        "answer": "width: 100%;"
+    },
+    {
+        "number": 24,
+        "question": "24. Qual é a propriedade CSS para centralizar horizontalmente um bloco dentro de seu contêiner?",
+        "options": ["margin: auto;", "text-align: center;", "align: center;", "center: true;"],
+        "answer": "margin: auto;"
+    },
+    {
+        "number": 25,
+        "question": "25. Qual unidade é usada para definir a altura de um elemento com base na altura da janela de visualização?",
+        "options": ["vh", "vw", "px", "em"],
+        "answer": "vh"
+    },
+    {
+        "number": 26,
+        "question": "26. Qual é a propriedade CSS que controla o estilo da borda?",
+        "options": ["border-style", "border-type", "border-width", "border-color"],
+        "answer": "border-style"
+    },
+    {
+        "number": 27,
+        "question": "27. Como você define o espaçamento entre linhas de texto?",
+        "options": ["line-height", "text-spacing", "letter-spacing", "font-spacing"],
+        "answer": "line-height"
+    },
+    {
+        "number": 28,
+        "question": "28. Qual é a propriedade CSS para aplicar uma imagem de fundo?",
+        "options": ["background-image", "image-background", "bg-image", "background-pic"],
+        "answer": "background-image"
+    },
+    {
+        "number": 29,
+        "question": "29. Qual propriedade CSS altera a opacidade de um elemento?",
+        "options": ["opacity", "visibility", "filter", "transparency"],
+        "answer": "opacity"
+    },
+    {
+        "number": 30,
+        "question": "30. Como você altera o cursor do mouse para uma mão ao passar sobre um link?",
+        "options": ["cursor: pointer;", "cursor: hand;", "cursor: click;", "cursor: move;"],
+        "answer": "cursor: pointer;"
+    },
+    {
+        "number": 31,
+        "question": "31. Qual é a propriedade CSS usada para alterar a posição de um elemento de forma absoluta?",
+        "options": ["position: absolute;", "position: fixed;", "position: relative;", "position: static;"],
+        "answer": "position: absolute;"
+    },
+    {
+        "number": 32,
+        "question": "32. Qual é a propriedade CSS que permite o alinhamento de itens em um contêiner flexível?",
+        "options": ["align-items", "justify-items", "align-content", "justify-content"],
+        "answer": "align-items"
+    },
+    {
+        "number": 33,
+        "question": "33. Qual é a propriedade CSS usada para definir o tamanho das colunas em um layout grid?",
+        "options": ["grid-template-columns", "grid-columns", "column-width", "column-template"],
+        "answer": "grid-template-columns"
+    },
+    {
+        "number": 34,
+        "question": "34. Qual é a propriedade CSS para ocultar um elemento sem remover o espaço que ele ocupa?",
+        "options": ["visibility: hidden;", "display: none;", "opacity: 0;", "position: absolute;"],
+        "answer": "visibility: hidden;"
+    },
+    {
+        "number": 35,
+        "question": "35. Como você aplica uma sombra ao texto de um elemento?",
+        "options": ["text-shadow", "box-shadow", "shadow", "font-shadow"],
+        "answer": "text-shadow"
+    },
+    {
+        "number": 36,
+        "question": "36. Qual é a propriedade CSS que controla a ordem dos itens em um contêiner flexível?",
+        "options": ["order", "flex-order", "item-order", "flex-priority"],
+        "answer": "order"
+    },
+    {
+        "number": 37,
+        "question": "37. Qual é a propriedade CSS usada para adicionar um espaçamento entre letras?",
+        "options": ["letter-spacing", "word-spacing", "line-spacing", "text-spacing"],
+        "answer": "letter-spacing"
+    },
+    {
+        "number": 38,
+        "question": "38. Como você faz um elemento se adaptar ao tamanho do seu conteúdo?",
+        "options": ["width: auto;", "width: fit-content;", "width: 100%;", "width: content;"],
+        "answer": "width: fit-content;"
+    },
+    {
+        "number": 39,
+        "question": "39. Qual é a propriedade CSS usada para definir o tipo de fonte do texto?",
+        "options": ["font-family", "font-type", "font-family-type", "text-font"],
+        "answer": "font-family"
+    },
+    {
+        "number": 40,
+        "question": "40. Qual é a propriedade CSS para definir a largura de um elemento em relação ao contêiner pai usando flexbox?",
+        "options": ["flex-basis", "flex-grow", "flex-shrink", "flex-width"],
+        "answer": "flex-basis"
+    },
+    {
+        "number": 41,
+        "question": "41. Como você alinha um item horizontalmente em um contêiner flexível?",
+        "options": ["justify-content", "align-items", "align-content", "flex-align"],
+        "answer": "justify-content"
+    },
+    {
+        "number": 42,
+        "question": "42. Qual é a propriedade CSS usada para alterar a visibilidade de um elemento?",
+        "options": ["visibility", "display", "opacity", "hidden"],
+        "answer": "visibility"
+    },
+    {
+        "number": 43,
+        "question": "43. Qual propriedade CSS é usada para definir a altura de um elemento?",
+        "options": ["height", "size", "width", "depth"],
+        "answer": "height"
+    },
+    {
+        "number": 44,
+        "question": "44. Qual unidade de medida CSS é baseada na largura da janela de visualização?",
+        "options": ["vw", "vh", "em", "px"],
+        "answer": "vw"
+    },
+    {
+        "number": 45,
+        "question": "45. Qual é a propriedade CSS usada para definir o espaçamento entre palavras?",
+        "options": ["word-spacing", "letter-spacing", "text-spacing", "line-spacing"],
+        "answer": "word-spacing"
+    },
+    {
+        "number": 46,
+        "question": "46. Qual é a propriedade CSS usada para criar uma borda arredondada em um elemento?",
+        "options": ["border-radius", "border-round", "border-style", "border-corner"],
+        "answer": "border-radius"
+    },
+    {
+        "number": 47,
+        "question": "47. Como você aplica uma animação a um elemento usando CSS?",
+        "options": ["@keyframes e animation", "@animation e animation", "@keyframe e animate", "@animate e animation"],
+        "answer": "@keyframes e animation"
+    },
+    {
+        "number": 48,
+        "question": "48. Qual é a propriedade CSS que controla a ordem de empilhamento dos elementos?",
+        "options": ["z-index", "stack-order", "layer-index", "order-index"],
+        "answer": "z-index"
+    },
+    {
+        "number": 49,
+        "question": "49. Como você define uma área de fundo em um elemento?",
+        "options": ["background", "background-color", "background-image", "bg-area"],
+        "answer": "background"
+    },
+    {
+        "number": 50,
+        "question": "50. Qual é a propriedade CSS usada para exibir um elemento como um bloco flexível?",
+        "options": ["display: flex;", "display: block;", "display: inline;", "display: grid;"],
+        "answer": "display: flex;"
+    },
+    {
+        "number": 51,
+        "question": "51. Como você define a largura mínima de um elemento?",
+        "options": ["min-width", "width-min", "min-size", "width-minimum"],
+        "answer": "min-width"
+    },
+    {
+        "number": 52,
+        "question": "52. Qual propriedade CSS controla a distribuição de espaço entre itens em um contêiner flexível?",
+        "options": ["justify-content", "align-items", "align-content", "item-spacing"],
+        "answer": "justify-content"
+    },
+    {
+        "number": 53,
+        "question": "53. Qual é a propriedade CSS usada para definir a visibilidade de um elemento de forma que ele ainda ocupe espaço na página?",
+        "options": ["visibility: visible;", "display: block;", "opacity: 1;", "visibility: hidden;"],
+        "answer": "visibility: visible;"
+    },
+    {
+        "number": 54,
+        "question": "54. Como você aplica um estilo a um elemento quando ele está focado?",
+        "options": [":focus", ":active", ":hover", ":visited"],
+        "answer": ":focus"
+    },
+    {
+        "number": 55,
+        "question": "55. Qual é a propriedade CSS que define a espessura da borda?",
+        "options": ["border-width", "border-thickness", "border-size", "border-height"],
+        "answer": "border-width"
+    },
+    {
+        "number": 56,
+        "question": "56. Como você define a altura mínima de um elemento?",
+        "options": ["min-height", "height-min", "min-size", "height-minimum"],
+        "answer": "min-height"
+    },
+    {
+        "number": 57,
+        "question": "57. Qual é a propriedade CSS que altera o alinhamento de itens em um contêiner grid?",
+        "options": ["align-items", "justify-items", "align-content", "grid-align"],
+        "answer": "align-items"
+    },
+    {
+        "number": 58,
+        "question": "58. Qual é a propriedade CSS usada para definir o alinhamento vertical do texto?",
+        "options": ["vertical-align", "text-align", "align-text", "text-position"],
+        "answer": "vertical-align"
+    },
+    {
+        "number": 59,
+        "question": "59. Qual é a unidade de medida relativa ao tamanho da fonte da raiz do documento?",
+        "options": ["rem", "em", "px", "vw"],
+        "answer": "rem"
+    },
+    {
+        "number": 60,
+        "question": "60. Qual propriedade CSS controla a exibição de um elemento como uma linha?",
+        "options": ["display: inline;", "display: block;", "display: flex;", "display: grid;"],
+        "answer": "display: inline;"
+    }
+]

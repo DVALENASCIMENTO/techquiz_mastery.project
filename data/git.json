@@ -1,0 +1,662 @@
+[
+    {
+        "number": 1,
+        "question": "1. O que é controle de versão?",
+        "options": [
+            "Um sistema que permite controlar acesso a arquivos",
+            "Um sistema que registra mudanças em arquivos ao longo do tempo",
+            "Uma técnica de backup de dados",
+            "Um método de encriptar arquivos"
+        ],
+        "answer": "Um sistema que registra mudanças em arquivos ao longo do tempo"
+    },
+    {
+        "number": 2,
+        "question": "2. Qual a importância do controle de versão?",
+        "options": [
+            "Facilitar a remoção de arquivos duplicados",
+            "Gerenciar projetos e colaboração entre desenvolvedores",
+            "Proteger arquivos contra vírus",
+            "Melhorar a velocidade de processamento dos arquivos"
+        ],
+        "answer": "Gerenciar projetos e colaboração entre desenvolvedores"
+    },
+    {
+        "number": 3,
+        "question": "3. Qual dos seguintes NÃO é um sistema de controle de versão?",
+        "options": [
+            "Git",
+            "Subversion (SVN)",
+            "Mercurial",
+            "Excel"
+        ],
+        "answer": "Excel"
+    },
+    {
+        "number": 4,
+        "question": "4. Qual comando é usado para instalar o Git no Ubuntu?",
+        "options": [
+            "install git",
+            "apt-get git",
+            "apt install git",
+            "sudo git install"
+        ],
+        "answer": "apt install git"
+    },
+    {
+        "number": 5,
+        "question": "5. Qual comando configura o nome de usuário no Git?",
+        "options": [
+            "git config user.name 'Seu Nome'",
+            "git config --global user.name 'Seu Nome'",
+            "git setup user.name 'Seu Nome'",
+            "git set user.name 'Seu Nome'"
+        ],
+        "answer": "git config --global user.name 'Seu Nome'"
+    },
+    {
+        "number": 6,
+        "question": "6. Qual comando é usado para iniciar um novo repositório Git?",
+        "options": [
+            "git start",
+            "git begin",
+            "git init",
+            "git create"
+        ],
+        "answer": "git init"
+    },
+    {
+        "number": 7,
+        "question": "7. Qual comando clona um repositório existente?",
+        "options": [
+            "git duplicate",
+            "git copy",
+            "git clone",
+            "git fetch"
+        ],
+        "answer": "git clone"
+    },
+    {
+        "number": 8,
+        "question": "8. Um repositório Git é:",
+        "options": [
+            "Um diretório especial que armazena todo o histórico de um projeto",
+            "Uma versão compactada de um projeto",
+            "Uma cópia temporária de arquivos do projeto",
+            "Um backup de segurança dos arquivos do projeto"
+        ],
+        "answer": "Um diretório especial que armazena todo o histórico de um projeto"
+    },
+    {
+        "number": 9,
+        "question": "9. Qual comando adiciona arquivos ao repositório Git?",
+        "options": [
+            "git add",
+            "git include",
+            "git push",
+            "git commit"
+        ],
+        "answer": "git add"
+    },
+    {
+        "number": 10,
+        "question": "10. O que faz o comando 'git commit'?",
+        "options": [
+            "Adiciona arquivos ao repositório",
+            "Salva uma foto do estado atual do projeto no histórico do repositório",
+            "Exclui arquivos do repositório",
+            "Envia arquivos para o repositório remoto"
+        ],
+        "answer": "Salva uma foto do estado atual do projeto no histórico do repositório"
+    },
+    {
+        "number": 11,
+        "question": "11. O que é a área de estágio no Git?",
+        "options": [
+            "Onde os arquivos são excluídos",
+            "Onde os arquivos são preparados para serem confirmados",
+            "Onde os arquivos são enviados para o repositório remoto",
+            "Onde os arquivos são clonados"
+        ],
+        "answer": "Onde os arquivos são preparados para serem confirmados"
+    },
+    {
+        "number": 12,
+        "question": "12. Qual comando mostra o histórico de commits?",
+        "options": [
+            "git history",
+            "git log",
+            "git commits",
+            "git show"
+        ],
+        "answer": "git log"
+    },
+    {
+        "number": 13,
+        "question": "13. Qual comando exibe as mudanças entre commits?",
+        "options": [
+            "git show",
+            "git status",
+            "git diff",
+            "git change"
+        ],
+        "answer": "git diff"
+    },
+    {
+        "number": 14,
+        "question": "14. Qual comando cria uma nova branch no Git?",
+        "options": [
+            "git new branch",
+            "git branch create",
+            "git branch",
+            "git init branch"
+        ],
+        "answer": "git branch"
+    },
+    {
+        "number": 15,
+        "question": "51. Para alternar entre branches, usamos:",
+        "options": [
+            "git switch",
+            "git checkout",
+            "git branch",
+            "git move"
+        ],
+        "answer": "git checkout"
+    },
+    {
+        "number": 16,
+        "question": "16. Qual comando mescla uma branch na branch atual?",
+        "options": [
+            "git combine",
+            "git union",
+            "git merge",
+            "git integrate"
+        ],
+        "answer": "git merge"
+    },
+    {
+        "number": 17,
+        "question": "17. Como adicionar um repositório remoto?",
+        "options": [
+            "git remote add origin <url>",
+            "git remote init <url>",
+            "git add remote <url>",
+            "git set remote <url>"
+        ],
+        "answer": "git remote add origin <url>"
+    },
+    {
+        "number": 18,
+        "question": "18. Qual comando envia commits locais para um repositório remoto?",
+        "options": [
+            "git send",
+            "git push",
+            "git commit",
+            "git deploy"
+        ],
+        "answer": "git push"
+    },
+    {
+        "number": 19,
+        "question": "19. Para obter mudanças de um repositório remoto, usamos:",
+        "options": [
+            "git update",
+            "git fetch",
+            "git pull",
+            "git clone"
+        ],
+        "answer": "git pull"
+    },
+    {
+        "number": 20,
+        "question": "20. Qual a diferença entre 'git pull' e 'git fetch'?",
+        "options": [
+            "git pull apenas baixa mudanças, enquanto git fetch aplica mudanças",
+            "git fetch apenas baixa mudanças, enquanto git pull aplica mudanças",
+            "Ambos fazem a mesma coisa",
+            "git pull é usado apenas para branches locais"
+        ],
+        "answer": "git fetch apenas baixa mudanças, enquanto git pull aplica mudanças"
+    },
+    {
+        "number": 21,
+        "question": "21. O que é um conflito de merge?",
+        "options": [
+            "Quando não há commits a serem mesclados",
+            "Quando há mudanças conflitantes em um arquivo",
+            "Quando a branch de destino não existe",
+            "Quando o repositório remoto não está acessível"
+        ],
+        "answer": "Quando há mudanças conflitantes em um arquivo"
+    },
+    {
+        "number": 22,
+        "question": "22. Como resolver um conflito de merge?",
+        "options": [
+            "Usando git resolve",
+            "Editando manualmente os arquivos conflitantes e fazendo um novo commit",
+            "Usando git conflict",
+            "Usando git fix"
+        ],
+        "answer": "Editando manualmente os arquivos conflitantes e fazendo um novo commit"
+    },
+    {
+        "number": 23,
+        "question": "23. O que é 'rebase' no Git?",
+        "options": [
+            "Um comando para deletar branches",
+            "Um comando para reverter commits",
+            "Um comando para reaplicar commits de uma branch sobre outra",
+            "Um comando para criar um novo repositório"
+        ],
+        "answer": "Um comando para reaplicar commits de uma branch sobre outra"
+    },
+    {
+        "number": 24,
+        "question": "24. Qual a diferença entre 'merge' e 'rebase'?",
+        "options": [
+            "merge cria um novo commit de merge, enquanto rebase reescreve a história do commit",
+            "merge reescreve a história do commit, enquanto rebase cria um novo commit de merge",
+            "Ambos fazem a mesma coisa",
+            "rebase é usado apenas para commits antigos"
+        ],
+        "answer": "merge cria um novo commit de merge, enquanto rebase reescreve a história do commit"
+    },
+    {
+        "number": 25,
+        "question": "25. Como alterar a mensagem do último commit?",
+        "options": [
+            "git commit --amend",
+            "git commit --edit",
+            "git update commit",
+            "git change commit"
+        ],
+        "answer": "git commit --amend"
+    },
+    {
+        "number": 26,
+        "question": "26. Qual comando cria um novo commit que desfaz as mudanças de um commit anterior?",
+        "options": [
+            "git revert",
+            "git reset",
+            "git undo",
+            "git rollback"
+        ],
+        "answer": "git revert"
+    },
+    {
+        "number": 27,
+        "question": "27. O que faz o comando 'git reset'?",
+        "options": [
+            "Desfaz alterações em arquivos",
+            "Remove commits do histórico",
+            "Restaura arquivos para um estado anterior",
+            "Todos os anteriores"
+        ],
+        "answer": "Todos os anteriores"
+    },
+    {
+        "number": 28,
+        "question": "28. Como verificar o status dos arquivos no repositório?",
+        "options": [
+            "git status",
+            "git check",
+            "git verify",
+            "git log"
+        ],
+        "answer": "git status"
+    },
+    {
+        "number": 29,
+        "question": "29. Qual comando exibe detalhes de um commit específico?",
+        "options": [
+            "git show <commit>",
+            "git log <commit>",
+            "git details <commit>",
+            "git info <commit>"
+        ],
+        "answer": "git show <commit>"
+    },
+    {
+        "number": 30,
+        "question": "30. Qual comando remove arquivos do repositório?",
+        "options": [
+            "git delete <file>",
+            "git remove <file>",
+            "git rm <file>",
+            "git discard <file>"
+        ],
+        "answer": "git rm <file>"
+    },
+    {
+        "number": 31,
+        "question": "31. Qual arquivo contém a configuração do repositório Git?",
+        "options": [
+            ".git/config",
+            ".gitignore",
+            ".gitattributes",
+            "config.txt"
+        ],
+        "answer": ".git/config"
+    },
+    {
+        "number": 32,
+        "question": "32. Como visualizar as branches disponíveis?",
+        "options": [
+            "git branches",
+            "git branch",
+            "git show branches",
+            "git list branches"
+        ],
+        "answer": "git branch"
+    },
+    {
+        "number": 33,
+        "question": "33. O que faz o comando 'git stash'?",
+        "options": [
+            "Remove arquivos do repositório",
+            "Salva mudanças não confirmadas temporariamente",
+            "Restaura arquivos de um commit",
+            "Desfaz o último commit"
+        ],
+        "answer": "Salva mudanças não confirmadas temporariamente"
+    },
+    {
+        "number": 34,
+        "question": "34. Como aplicar mudanças armazenadas no stash?",
+        "options": [
+            "git apply stash",
+            "git pop stash",
+            "git stash apply",
+            "git restore stash"
+        ],
+        "answer": "git stash apply"
+    },
+    {
+        "number": 35,
+        "question": "35. O que é um 'fork' no GitHub?",
+        "options": [
+            "Uma cópia de um repositório que você pode editar",
+            "Um tipo de branch",
+            "Um comando para clonar repositórios",
+            "Um método de backup de repositórios"
+        ],
+        "answer": "Uma cópia de um repositório que você pode editar"
+    },
+    {
+        "number": 36,
+        "question": "36. Qual comando cria uma nova tag no Git?",
+        "options": [
+            "git tag <tag>",
+            "git create tag <tag>",
+            "git new tag <tag>",
+            "git make tag <tag>"
+        ],
+        "answer": "git tag <tag>"
+    },
+    {
+        "number": 37,
+        "question": "37. Qual comando lista todas as tags no repositório?",
+        "options": [
+            "git show tags",
+            "git list tags",
+            "git tags",
+            "git tag"
+        ],
+        "answer": "git tag"
+    },
+    {
+        "number": 38,
+        "question": "38. O que faz o comando 'git cherry-pick'?",
+        "options": [
+            "Aplica um commit específico de outra branch",
+            "Remove um commit específico",
+            "Cria um novo commit",
+            "Exclui um branch"
+        ],
+        "answer": "Aplica um commit específico de outra branch"
+    },
+    {
+        "number": 39,
+        "question": "39. Como configurar o editor de texto padrão no Git?",
+        "options": [
+            "git set editor <editor>",
+            "git config --global core.editor <editor>",
+            "git editor set <editor>",
+            "git editor <editor>"
+        ],
+        "answer": "git config --global core.editor <editor>"
+    },
+    {
+        "number": 40,
+        "question": "40. Qual comando exibe a diferença entre dois commits?",
+        "options": [
+            "git diff <commit1> <commit2>",
+            "git compare <commit1> <commit2>",
+            "git show diff <commit1> <commit2>",
+            "git log diff <commit1> <commit2>"
+        ],
+        "answer": "git diff <commit1> <commit2>"
+    },
+    {
+        "number": 41,
+        "question": "41. Como adicionar um arquivo ao .gitignore?",
+        "options": [
+            "Editando o arquivo .gitignore e adicionando o nome do arquivo",
+            "Usando git ignore add <file>",
+            "Usando git add ignore <file>",
+            "Usando git add .gitignore <file>"
+        ],
+        "answer": "Editando o arquivo .gitignore e adicionando o nome do arquivo"
+    },
+    {
+        "number": 42,
+        "question": "42. Qual comando cria um tag anotada?",
+        "options": [
+            "git tag <tag>",
+            "git create tag <tag>",
+            "git tag -a <tag> -m 'message'",
+            "git add tag <tag>"
+        ],
+        "answer": "git tag -a <tag> -m 'message'"
+    },
+    {
+        "number": 43,
+        "question": "43. Como verificar assinaturas de tags?",
+        "options": [
+            "git verify tag",
+            "git check tag",
+            "git show sig",
+            "git tag -v <tag>"
+        ],
+        "answer": "git tag -v <tag>"
+    },
+    {
+        "number": 44,
+        "question": "44. Qual comando lista todos os tags?",
+        "options": [
+            "git list tags",
+            "git show tags",
+            "git tags",
+            "git tag"
+        ],
+        "answer": "git tag"
+    },
+    {
+        "number": 45,
+        "question": "45. O que é GitHub?",
+        "options": [
+            "Um sistema de controle de versão",
+            "Uma plataforma para hospedagem de código-fonte",
+            "Um editor de texto",
+            "Um sistema de gerenciamento de projetos"
+        ],
+        "answer": "Uma plataforma para hospedagem de código-fonte"
+    },
+    {
+        "number": 46,
+        "question": "46. Para criar um novo repositório no GitHub, você deve:",
+        "options": [
+            "Criar um repositório localmente e fazer o push",
+            "Clonar um repositório vazio",
+            "Usar a interface web do GitHub",
+            "Enviar um e-mail para o suporte do GitHub"
+        ],
+        "answer": "Usar a interface web do GitHub"
+    },
+    {
+        "number": 47,
+        "question": "47. O que é um pull request?",
+        "options": [
+            "Um pedido para clonar um repositório",
+            "Um pedido para fazer um merge de mudanças de uma branch para outra",
+            "Um pedido para excluir uma branch",
+            "Um pedido para renomear um repositório"
+        ],
+        "answer": "Um pedido para fazer um merge de mudanças de uma branch para outra"
+    },
+    {
+        "number": 48,
+        "question": "48. Qual a diferença entre um fork e um clone?",
+        "options": [
+            "Fork cria uma cópia independente no GitHub, enquanto clone cria uma cópia local",
+            "Clone cria uma cópia independente no GitHub, enquanto fork cria uma cópia local",
+            "Fork cria uma branch nova, enquanto clone cria uma branch nova",
+            "Clone cria uma branch nova, enquanto fork cria uma branch nova"
+        ],
+        "answer": "Fork cria uma cópia independente no GitHub, enquanto clone cria uma cópia local"
+    },
+    {
+        "number": 49,
+        "question": "49. O que é GitLab?",
+        "options": [
+            "Um editor de texto",
+            "Uma plataforma de controle de versão e CI/CD",
+            "Uma ferramenta de design gráfico",
+            "Uma linguagem de programação"
+        ],
+        "answer": "Uma plataforma de controle de versão e CI/CD"
+    },
+    {
+        "number": 50,
+        "question": "50. Como criar uma chave SSH para autenticação no GitHub?",
+        "options": [
+            "Usando ssh-keygen",
+            "Usando git create-key",
+            "Usando ssh-key add",
+            "Usando git ssh-keygen"
+        ],
+        "answer": "Usando ssh-keygen"
+    },
+    {
+        "number": 51,
+        "question": "51. Como configurar a proteção de branches no GitHub?",
+        "options": [
+            "Editando o arquivo .gitignore",
+            "Configurando regras de proteção de branch no repositório",
+            "Adicionando uma chave SSH",
+            "Usando git protect"
+        ],
+        "answer": "Configurando regras de proteção de branch no repositório"
+    },
+    {
+        "number": 52,
+        "question": "52. Qual ferramenta integra Git com IDEs como VSCode?",
+        "options": [
+            "GitHub Desktop",
+            "Sourcetree",
+            "GitKraken",
+            "Todos os anteriores"
+        ],
+        "answer": "Todos os anteriores"
+    },
+    {
+        "number": 53,
+        "question": "53. Qual comando exibe as diferenças de forma resumida?",
+        "options": [
+            "git diff --summary",
+            "git diff",
+            "git status",
+            "git log"
+        ],
+        "answer": "git diff"
+    },
+    {
+        "number": 54,
+        "question": "54. Como restaurar um arquivo para a última versão confirmada?",
+        "options": [
+            "git restore <file>",
+            "git checkout <file>",
+            "git revert <file>",
+            "git reset <file>"
+        ],
+        "answer": "git restore <file>"
+    },
+    {
+        "number": 55,
+        "question": "55. Qual o propósito do arquivo .gitignore?",
+        "options": [
+            "Listar arquivos que devem ser ignorados pelo Git",
+            "Listar arquivos que devem ser incluídos no repositório",
+            "Armazenar a configuração do Git",
+            "Armazenar o histórico de commits"
+        ],
+        "answer": "Listar arquivos que devem ser ignorados pelo Git"
+    },
+    {
+        "number": 56,
+        "question": "56. Como verificar as branches remotas?",
+        "options": [
+            "git branch -r",
+            "git remote branches",
+            "git branches --remote",
+            "git list remote-branches"
+        ],
+        "answer": "git branch -r"
+    },
+    {
+        "number": 57,
+        "question": "57. O que faz o comando 'git clean'?",
+        "options": [
+            "Remove arquivos não rastreados do diretório de trabalho",
+            "Limpa o repositório de commits",
+            "Remove branches antigas",
+            "Remove repositórios locais"
+        ],
+        "answer": "Remove arquivos não rastreados do diretório de trabalho"
+    },
+    {
+        "number": 58,
+        "question": "58. Como adicionar um repositório remoto após já ter criado o repositório?",
+        "options": [
+            "git remote add origin <url>",
+            "git add remote <url>",
+            "git set remote <url>",
+            "git add origin <url>"
+        ],
+        "answer": "git remote add origin <url>"
+    },
+    {
+        "number": 59,
+        "question": "59. Qual é a função do arquivo .gitattributes?",
+        "options": [
+            "Definir atributos para arquivos em um repositório",
+            "Armazenar informações de commit",
+            "Configurar o ambiente do Git",
+            "Listar arquivos que devem ser ignorados"
+        ],
+        "answer": "Definir atributos para arquivos em um repositório"
+    },
+    {
+        "number": 60,
+        "question": "60. Como desfazer um commit que ainda não foi enviado para o repositório remoto?",
+        "options": [
+            "git reset HEAD~1",
+            "git undo last",
+            "git revert last",
+            "git remove last commit"
+        ],
+        "answer": "git reset HEAD~1"
+    }
+]

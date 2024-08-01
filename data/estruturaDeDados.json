@@ -1,0 +1,662 @@
+[
+    {
+        "number": 1,
+        "question": "1. Qual é a estrutura de dados que permite a inserção e remoção de elementos apenas do topo?",
+        "options": [
+            "A) Fila",
+            "B) Lista Encadeada",
+            "C) Pilha",
+            "D) Array"
+        ],
+        "answer": "C) Pilha"
+    },
+    {
+        "number": 2,
+        "question": "2. Qual é a complexidade de tempo para acessar um elemento em uma lista ligada?",
+        "options": [
+            "A) O(1)",
+            "B) O(n)",
+            "C) O(log n)",
+            "D) O(n^2)"
+        ],
+        "answer": "B) O(n)"
+    },
+    {
+        "number": 3,
+        "question": "3. Qual é a principal característica de uma fila?",
+        "options": [
+            "A) FIFO (First In First Out)",
+            "B) LIFO (Last In First Out)",
+            "C) Acesso aleatório",
+            "D) Estrutura hierárquica"
+        ],
+        "answer": "A) FIFO (First In First Out)"
+    },
+    {
+        "number": 4,
+        "question": "4. O que caracteriza uma árvore binária?",
+        "options": [
+            "A) Cada nó tem até dois filhos",
+            "B) Cada nó pode ter um número variável de filhos",
+            "C) Todos os nós são folhas",
+            "D) Todos os nós têm exatamente dois filhos"
+        ],
+        "answer": "A) Cada nó tem até dois filhos"
+    },
+    {
+        "number": 5,
+        "question": "5. Qual é a estrutura de dados ideal para representar uma lista de elementos ordenados?",
+        "options": [
+            "A) Lista Encadeada",
+            "B) Pilha",
+            "C) Fila",
+            "D) Tabela Hash"
+        ],
+        "answer": "A) Lista Encadeada"
+    },
+    {
+        "number": 6,
+        "question": "6. Qual é a complexidade de tempo para inserir um elemento em uma lista encadeada?",
+        "options": [
+            "A) O(1)",
+            "B) O(n)",
+            "C) O(log n)",
+            "D) O(n^2)"
+        ],
+        "answer": "A) O(1)"
+    },
+    {
+        "number": 7,
+        "question": "7. Qual é a principal vantagem de usar uma tabela hash?",
+        "options": [
+            "A) Busca rápida através de um índice",
+            "B) Armazenamento em árvore",
+            "C) Menor uso de memória",
+            "D) Ordenação automática"
+        ],
+        "answer": "A) Busca rápida através de um índice"
+    },
+    {
+        "number": 8,
+        "question": "8. Qual é a principal característica de uma árvore binária de busca?",
+        "options": [
+            "A) Os nós são organizados em uma estrutura hierárquica",
+            "B) Cada nó tem um valor maior que seus filhos à esquerda",
+            "C) Cada nó tem um valor menor que seus filhos à direita",
+            "D) Os nós são armazenados em uma lista encadeada"
+        ],
+        "answer": "B) Cada nó tem um valor maior que seus filhos à esquerda"
+    },
+    {
+        "number": 9,
+        "question": "9. Qual é a complexidade de tempo para a operação de busca em uma árvore binária de busca balanceada?",
+        "options": [
+            "A) O(1)",
+            "B) O(log n)",
+            "C) O(n)",
+            "D) O(n^2)"
+        ],
+        "answer": "B) O(log n)"
+    },
+    {
+        "number": 10,
+        "question": "10. Qual é a estrutura de dados ideal para implementar uma fila?",
+        "options": [
+            "A) Lista Encadeada",
+            "B) Pilha",
+            "C) Array",
+            "D) Tabela Hash"
+        ],
+        "answer": "A) Lista Encadeada"
+    },
+    {
+        "number": 11,
+        "question": "11. Qual é a principal vantagem de uma lista encadeada em relação a um array?",
+        "options": [
+            "A) Acesso aleatório rápido",
+            "B) Menor uso de memória",
+            "C) Facilidade de inserção e exclusão",
+            "D) Mais espaço para dados"
+        ],
+        "answer": "C) Facilidade de inserção e exclusão"
+    },
+    {
+        "number": 12,
+        "question": "12. Qual é a estrutura de dados usada para implementar uma pilha?",
+        "options": [
+            "A) Lista Encadeada",
+            "B) Fila",
+            "C) Tabela Hash",
+            "D) Árvore"
+        ],
+        "answer": "A) Lista Encadeada"
+    },
+    {
+        "number": 13,
+        "question": "13. Qual é a complexidade de tempo para acessar um elemento em um array?",
+        "options": [
+            "A) O(1)",
+            "B) O(log n)",
+            "C) O(n)",
+            "D) O(n^2)"
+        ],
+        "answer": "A) O(1)"
+    },
+    {
+        "number": 14,
+        "question": "14. Qual é a principal vantagem das árvores AVL?",
+        "options": [
+            "A) Acesso rápido a qualquer nó",
+            "B) Equilíbrio automático",
+            "C) Uso eficiente de memória",
+            "D) Simplicidade na implementação"
+        ],
+        "answer": "B) Equilíbrio automático"
+    },
+    {
+        "number": 15,
+        "question": "15. O que caracteriza uma lista encadeada circular?",
+        "options": [
+            "A) O primeiro nó é conectado ao último nó",
+            "B) Todos os nós têm três ponteiros",
+            "C) Cada nó é conectado a dois outros nós",
+            "D) O último nó é conectado ao primeiro nó e ao próximo nó"
+        ],
+        "answer": "A) O primeiro nó é conectado ao último nó"
+    },
+    {
+        "number": 16,
+        "question": "16. Qual é a principal característica de um grafo?",
+        "options": [
+            "A) Estrutura hierárquica",
+            "B) Conjunto de nós e arestas",
+            "C) Lista de elementos",
+            "D) Array multidimensional"
+        ],
+        "answer": "B) Conjunto de nós e arestas"
+    },
+    {
+        "number": 17,
+        "question": "17. Qual é a complexidade de tempo para a operação de 'enqueue' em uma fila implementada com uma lista encadeada?",
+        "options": [
+            "A) O(1)",
+            "B) O(log n)",
+            "C) O(n)",
+            "D) O(n^2)"
+        ],
+        "answer": "A) O(1)"
+    },
+    {
+        "number": 18,
+        "question": "18. Qual estrutura de dados é mais eficiente para buscar e inserir elementos de forma ordenada?",
+        "options": [
+            "A) Lista Encadeada",
+            "B) Árvore Binária de Busca",
+            "C) Pilha",
+            "D) Fila"
+        ],
+        "answer": "B) Árvore Binária de Busca"
+    },
+    {
+        "number": 19,
+        "question": "19. Qual é a principal vantagem de usar uma árvore Red-Black?",
+        "options": [
+            "A) Balanceamento garantido",
+            "B) Simplicidade na implementação",
+            "C) Acesso rápido a qualquer nó",
+            "D) Estrutura de dados hierárquica"
+        ],
+        "answer": "A) Balanceamento garantido"
+    },
+    {
+        "number": 20,
+        "question": "20. Em uma árvore binária, qual é o número máximo de filhos que um nó pode ter?",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2"
+    },
+    {
+        "number": 21,
+        "question": "21. Qual é a complexidade de tempo para buscar um elemento em uma tabela de hash?",
+        "options": [
+            "A) O(1)",
+            "B) O(log n)",
+            "C) O(n)",
+            "D) O(n^2)"
+        ],
+        "answer": "A) O(1)"
+    },
+    {
+        "number": 22,
+        "question": "22. Qual é a principal vantagem de uma tabela hash?",
+        "options": [
+            "A) Permite busca rápida através de um índice",
+            "B) Armazena elementos em uma estrutura hierárquica",
+            "C) Permite busca linear",
+            "D) Armazena elementos em uma lista encadeada"
+        ],
+        "answer": "A) Permite busca rápida através de um índice"
+    },
+    {
+        "number": 23,
+        "question": "23. Qual é a principal vantagem de usar uma lista encadeada sobre um array?",
+        "options": [
+            "A) Acesso aleatório rápido",
+            "B) Menor uso de memória",
+            "C) Facilidade de inserção e exclusão",
+            "D) Maior velocidade de acesso"
+        ],
+        "answer": "C) Facilidade de inserção e exclusão"
+    },
+    {
+        "number": 24,
+        "question": "24. Qual estrutura de dados é ideal para representar uma rede de computadores?",
+        "options": [
+            "A) Pilha",
+            "B) Fila",
+            "C) Grafo",
+            "D) Tabela Hash"
+        ],
+        "answer": "C) Grafo"
+    },
+    {
+        "number": 25,
+        "question": "25. Qual é a principal característica de uma árvore binária completa?",
+        "options": [
+            "A) Todos os níveis estão completamente preenchidos",
+            "B) Cada nó tem um valor maior que seus filhos à esquerda",
+            "C) A árvore está desbalanceada",
+            "D) Todos os nós têm exatamente dois filhos"
+        ],
+        "answer": "A) Todos os níveis estão completamente preenchidos"
+    },
+    {
+        "number": 26,
+        "question": "26. Qual é a principal vantagem de uma árvore B?",
+        "options": [
+            "A) Reduzir a altura da árvore e melhorar a eficiência das operações de busca, inserção e exclusão em discos",
+            "B) Garantir a ordem dos elementos",
+            "C) Facilitar a implementação de algoritmos de busca",
+            "D) Melhorar a eficiência da memória"
+        ],
+        "answer": "A) Reduzir a altura da árvore e melhorar a eficiência das operações de busca, inserção e exclusão em discos"
+    },
+    {
+        "number": 27,
+        "question": "27. Qual estrutura de dados é usada para armazenar e acessar dados de forma hierárquica?",
+        "options": [
+            "A) Lista Encadeada",
+            "B) Pilha",
+            "C) Árvore",
+            "D) Fila"
+        ],
+        "answer": "C) Árvore"
+    },
+    {
+        "number": 28,
+        "question": "28. Qual é a complexidade de tempo para a operação de 'dequeue' em uma fila implementada com uma lista encadeada?",
+        "options": [
+            "A) O(1)",
+            "B) O(log n)",
+            "C) O(n)",
+            "D) O(n^2)"
+        ],
+        "answer": "A) O(1)"
+    },
+    {
+        "number": 29,
+        "question": "29. Qual é a estrutura de dados ideal para implementar uma lista de tarefas com prioridades?",
+        "options": [
+            "A) Lista Encadeada",
+            "B) Pilha",
+            "C) Fila de Prioridade",
+            "D) Tabela Hash"
+        ],
+        "answer": "C) Fila de Prioridade"
+    },
+    {
+        "number": 30,
+        "question": "30. Qual é a principal característica de uma árvore de segmento?",
+        "options": [
+            "A) Usada para realizar consultas e atualizações de intervalos",
+            "B) Usada para representar gráficos não direcionados",
+            "C) Usada para ordenar elementos",
+            "D) Usada para armazenar elementos de forma hierárquica"
+        ],
+        "answer": "A) Usada para realizar consultas e atualizações de intervalos"
+    },
+    {
+        "number": 31,
+        "question": "31. Qual é a principal vantagem das árvores B?",
+        "options": [
+            "A) Reduzir a altura da árvore e melhorar a eficiência das operações de busca, inserção e exclusão em discos",
+            "B) Garantir a ordem dos elementos",
+            "C) Facilitar a implementação de algoritmos de busca",
+            "D) Melhorar a eficiência da memória"
+        ],
+        "answer": "A) Reduzir a altura da árvore e melhorar a eficiência das operações de busca, inserção e exclusão em discos"
+    },
+    {
+        "number": 32,
+        "question": "32. Qual é a principal característica de uma tabela de hash com encadeamento?",
+        "options": [
+            "A) Usa listas encadeadas para resolver colisões",
+            "B) Usa árvores para resolver colisões",
+            "C) Usa arrays para resolver colisões",
+            "D) Usa busca binária para resolver colisões"
+        ],
+        "answer": "A) Usa listas encadeadas para resolver colisões"
+    },
+    {
+        "number": 33,
+        "question": "33. Qual é a principal vantagem de uma árvore binária de busca (BST)?",
+        "options": [
+            "A) Acesso aleatório rápido",
+            "B) Busca e inserção eficientes",
+            "C) Ordenação dos elementos",
+            "D) Simplicidade na implementação"
+        ],
+        "answer": "B) Busca e inserção eficientes"
+    },
+    {
+        "number": 34,
+        "question": "34. Qual é a principal vantagem de usar um heap binário?",
+        "options": [
+            "A) Garantia de acesso rápido ao menor ou maior elemento",
+            "B) Simplicidade na implementação",
+            "C) Uso eficiente de memória",
+            "D) Estrutura hierárquica balanceada"
+        ],
+        "answer": "A) Garantia de acesso rápido ao menor ou maior elemento"
+    },
+    {
+        "number": 35,
+        "question": "35. Qual estrutura de dados é usada para realizar a ordenação por seleção?",
+        "options": [
+            "A) Pilha",
+            "B) Lista Encadeada",
+            "C) Array",
+            "D) Árvore"
+        ],
+        "answer": "C) Array"
+    },
+    {
+        "number": 36,
+        "question": "36. Qual é a estrutura de dados ideal para realizar operações de inserção e remoção de elementos no início e no fim da lista?",
+        "options": [
+            "A) Lista Encadeada",
+            "B) Array",
+            "C) Fila",
+            "D) Tabela Hash"
+        ],
+        "answer": "A) Lista Encadeada"
+    },
+    {
+        "number": 37,
+        "question": "37. Qual é a complexidade de tempo para acessar um elemento em uma árvore AVL?",
+        "options": [
+            "A) O(1)",
+            "B) O(log n)",
+            "C) O(n)",
+            "D) O(n^2)"
+        ],
+        "answer": "B) O(log n)"
+    },
+    {
+        "number": 38,
+        "question": "38. Qual é a principal vantagem de uma árvore binária de busca (BST) balanceada?",
+        "options": [
+            "A) Garantia de complexidade de tempo O(log n) para buscas, inserções e exclusões",
+            "B) Acesso aleatório rápido",
+            "C) Simplicidade na implementação",
+            "D) Estrutura hierárquica balanceada"
+        ],
+        "answer": "A) Garantia de complexidade de tempo O(log n) para buscas, inserções e exclusões"
+    },
+    {
+        "number": 39,
+        "question": "39. Qual é a principal vantagem de usar uma lista encadeada sobre um array?",
+        "options": [
+            "A) Acesso aleatório rápido",
+            "B) Menor uso de memória",
+            "C) Facilidade de inserção e exclusão",
+            "D) Maior velocidade de acesso"
+        ],
+        "answer": "C) Facilidade de inserção e exclusão"
+    },
+    {
+        "number": 40,
+        "question": "40. Qual estrutura de dados é ideal para implementar uma fila com prioridade?",
+        "options": [
+            "A) Lista Encadeada",
+            "B) Pilha",
+            "C) Heap",
+            "D) Tabela Hash"
+        ],
+        "answer": "C) Heap"
+    },
+    {
+        "number": 41,
+        "question": "41. Qual é a principal vantagem de usar uma tabela de hash com encadeamento?",
+        "options": [
+            "A) Permite lidar com colisões de forma eficiente",
+            "B) Garante busca em tempo constante",
+            "C) Usa menos memória",
+            "D) Facilita a implementação de algoritmos de busca"
+        ],
+        "answer": "A) Permite lidar com colisões de forma eficiente"
+    },
+    {
+        "number": 42,
+        "question": "42. Qual é a estrutura de dados ideal para implementar um buffer de dados?",
+        "options": [
+            "A) Lista Encadeada",
+            "B) Pilha",
+            "C) Fila Circular",
+            "D) Tabela Hash"
+        ],
+        "answer": "C) Fila Circular"
+    },
+    {
+        "number": 43,
+        "question": "43. Qual é a principal vantagem de usar uma árvore de segmento?",
+        "options": [
+            "A) Realizar consultas e atualizações de intervalos de forma eficiente",
+            "B) Representar grafos direcionados",
+            "C) Armazenar elementos em uma estrutura hierárquica",
+            "D) Ordenar elementos rapidamente"
+        ],
+        "answer": "A) Realizar consultas e atualizações de intervalos de forma eficiente"
+    },
+    {
+        "number": 44,
+        "question": "44. Qual é a estrutura de dados ideal para implementar uma pilha?",
+        "options": [
+            "A) Lista Encadeada",
+            "B) Fila",
+            "C) Array",
+            "D) Tabela Hash"
+        ],
+        "answer": "A) Lista Encadeada"
+    },
+    {
+        "number": 45,
+        "question": "45. Qual é a complexidade de tempo para a operação de 'push' em uma pilha implementada com um array?",
+        "options": [
+            "A) O(1)",
+            "B) O(log n)",
+            "C) O(n)",
+            "D) O(n^2)"
+        ],
+        "answer": "A) O(1)"
+    },
+    {
+        "number": 46,
+        "question": "46. Qual é a principal vantagem de uma fila circular?",
+        "options": [
+            "A) Uso eficiente da memória",
+            "B) Acesso aleatório",
+            "C) Simplicidade na implementação",
+            "D) Suporte a múltiplas prioridades"
+        ],
+        "answer": "A) Uso eficiente da memória"
+    },
+    {
+        "number": 47,
+        "question": "47. Qual é a estrutura de dados ideal para implementar uma lista de espera?",
+        "options": [
+            "A) Pilha",
+            "B) Fila",
+            "C) Lista Encadeada",
+            "D) Array"
+        ],
+        "answer": "B) Fila"
+    },
+    {
+        "number": 48,
+        "question": "48. Qual é a complexidade de tempo para a operação de 'peek' em uma pilha?",
+        "options": [
+            "A) O(1)",
+            "B) O(log n)",
+            "C) O(n)",
+            "D) O(n^2)"
+        ],
+        "answer": "A) O(1)"
+    },
+    {
+        "number": 49,
+        "question": "49. Qual é a estrutura de dados ideal para implementar uma lista de elementos que precisam ser acessados de forma aleatória?",
+        "options": [
+            "A) Array",
+            "B) Lista Encadeada",
+            "C) Fila",
+            "D) Tabela Hash"
+        ],
+        "answer": "A) Array"
+    },
+    {
+        "number": 50,
+        "question": "50. Qual é a complexidade de tempo para a operação de 'pop' em uma pilha?",
+        "options": [
+            "A) O(1)",
+            "B) O(log n)",
+            "C) O(n)",
+            "D) O(n^2)"
+        ],
+        "answer": "A) O(1)"
+    },
+    {
+        "number": 51,
+        "question": "51. Qual é a principal vantagem de uma árvore 2-3?",
+        "options": [
+            "A) Permite manter os elementos em ordem",
+            "B) Reduz a altura da árvore",
+            "C) Garante que todos os nós estão balanceados",
+            "D) Permite operações eficientes em um disco"
+        ],
+        "answer": "A) Permite manter os elementos em ordem"
+    },
+    {
+        "number": 52,
+        "question": "52. Qual é a complexidade de tempo para inserir um elemento em uma árvore binária de busca desbalanceada?",
+        "options": [
+            "A) O(1)",
+            "B) O(log n)",
+            "C) O(n)",
+            "D) O(n^2)"
+        ],
+        "answer": "C) O(n)"
+    },
+    {
+        "number": 53,
+        "question": "53. Qual é a principal vantagem de um grafo dirigido?",
+        "options": [
+            "A) Representar relações unidirecionais entre elementos",
+            "B) Armazenar dados de forma hierárquica",
+            "C) Permitir acesso aleatório aos nós",
+            "D) Usar menos memória"
+        ],
+        "answer": "A) Representar relações unidirecionais entre elementos"
+    },
+    {
+        "number": 54,
+        "question": "54. Qual é a estrutura de dados ideal para implementar um sistema de gerenciamento de arquivos?",
+        "options": [
+            "A) Lista Encadeada",
+            "B) Árvore",
+            "C) Tabela Hash",
+            "D) Grafo"
+        ],
+        "answer": "B) Árvore"
+    },
+    {
+        "number": 55,
+        "question": "55. Qual é a complexidade de tempo para a operação de 'remove' em uma tabela de hash?",
+        "options": [
+            "A) O(1)",
+            "B) O(log n)",
+            "C) O(n)",
+            "D) O(n^2)"
+        ],
+        "answer": "A) O(1)"
+    },
+    {
+        "number": 56,
+        "question": "56. Qual é a principal vantagem de um grafo não dirigido?",
+        "options": [
+            "A) Representar relações bidirecionais entre elementos",
+            "B) Permitir acesso aleatório aos nós",
+            "C) Usar menos memória",
+            "D) Armazenar dados de forma hierárquica"
+        ],
+        "answer": "A) Representar relações bidirecionais entre elementos"
+    },
+    {
+        "number": 57,
+        "question": "57. Qual é a complexidade de tempo para a operação de 'traverse' em um grafo usando busca em profundidade?",
+        "options": [
+            "A) O(1)",
+            "B) O(log n)",
+            "C) O(n + m)",
+            "D) O(n^2)"
+        ],
+        "answer": "C) O(n + m)"
+    },
+    {
+        "number": 58,
+        "question": "58. Qual é a principal vantagem de usar uma lista encadeada circular?",
+        "options": [
+            "A) Permitir iteração contínua sobre os elementos",
+            "B) Reduzir o uso de memória",
+            "C) Garantir que todos os nós têm um pai",
+            "D) Facilitar a busca por elementos"
+        ],
+        "answer": "A) Permitir iteração contínua sobre os elementos"
+    },
+    {
+        "number": 59,
+        "question": "59. Qual é a estrutura de dados ideal para implementar uma agenda de contatos?",
+        "options": [
+            "A) Lista Encadeada",
+            "B) Array",
+            "C) Tabela Hash",
+            "D) Fila"
+        ],
+        "answer": "C) Tabela Hash"
+    },
+    {
+        "number": 60,
+        "question": "60. Qual é a complexidade de tempo para inserir um elemento em uma lista encadeada?",
+        "options": [
+            "A) O(1)",
+            "B) O(log n)",
+            "C) O(n)",
+            "D) O(n^2)"
+        ],
+        "answer": "A) O(1)"
+    }
+]

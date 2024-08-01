@@ -1,0 +1,362 @@
+[
+    {
+        "number": 1,
+        "question": "O que significa a sigla UX?",
+        "options": ["User Experience", "User Existence", "Unique Experience", "Universal Experience"],
+        "answer": "User Experience"
+    },
+    {
+        "number": 2,
+        "question": "Qual é a principal diferença entre UX e UI?",
+        "options": ["UX se refere ao design visual, UI se refere à experiência do usuário.", "UX foca na interação do usuário, UI foca na interface visual.", "UX é mais técnico, UI é mais criativo.", "Não há diferença."],
+        "answer": "UX foca na interação do usuário, UI foca na interface visual."
+    },
+    {
+        "number": 3,
+        "question": "O que é usabilidade?",
+        "options": ["A facilidade de uso de um produto.", "A estética de um produto.", "A funcionalidade de um produto.", "A quantidade de recursos de um produto."],
+        "answer": "A facilidade de uso de um produto."
+    },
+    {
+        "number": 4,
+        "question": "Qual é uma técnica comum para pesquisa de usuário?",
+        "options": ["Wireframing", "Entrevistas", "Codificação", "Prototipagem"],
+        "answer": "Entrevistas"
+    },
+    {
+        "number": 5,
+        "question": "Qual é a ferramenta mais comum para criar wireframes?",
+        "options": ["Microsoft Word", "Figma", "Photoshop", "Excel"],
+        "answer": "Figma"
+    },
+    {
+        "number": 6,
+        "question": "O que é um persona?",
+        "options": ["Um usuário fictício que representa um grupo-alvo.", "Um tipo de software de design.", "Um método de pesquisa.", "Uma técnica de prototipagem."],
+        "answer": "Um usuário fictício que representa um grupo-alvo."
+    },
+    {
+        "number": 7,
+        "question": "Qual é a principal finalidade do design centrado no usuário?",
+        "options": ["Criar um produto visualmente atraente.", "Atender às necessidades e desejos dos usuários.", "Reduzir custos de desenvolvimento.", "Aumentar a complexidade do produto."],
+        "answer": "Atender às necessidades e desejos dos usuários."
+    },
+    {
+        "number": 8,
+        "question": "O que é um protótipo de baixa fidelidade?",
+        "options": ["Um modelo detalhado e funcional.", "Um esboço simples que representa a estrutura do produto.", "Um produto finalizado.", "Um modelo de alta complexidade."],
+        "answer": "Um esboço simples que representa a estrutura do produto."
+    },
+    {
+        "number": 9,
+        "question": "Qual é um princípio de design visual?",
+        "options": ["Contraste", "Complexidade", "Aleatoriedade", "Distração"],
+        "answer": "Contraste"
+    },
+    {
+        "number": 10,
+        "question": "O que são microinterações?",
+        "options": ["Pequenas animações que melhoram a experiência do usuário.", "Funcionalidades complexas de um produto.", "Testes de usabilidade.", "Métodos de pesquisa."],
+        "answer": "Pequenas animações que melhoram a experiência do usuário."
+    },
+    {
+        "number": 11,
+        "question": "Qual é a principal função da arquitetura da informação?",
+        "options": ["Tornar um produto mais bonito.", "Organizar e estruturar a informação de forma lógica.", "Criar novos recursos.", "Reduzir o tempo de desenvolvimento."],
+        "answer": "Organizar e estruturar a informação de forma lógica."
+    },
+    {
+        "number": 12,
+        "question": "Qual método é usado para entender as necessidades dos usuários?",
+        "options": ["Brainstorming", "Análise de mercado", "Pesquisa de usuário", "Análise SWOT"],
+        "answer": "Pesquisa de usuário"
+    },
+    {
+        "number": 13,
+        "question": "O que é um sitemap?",
+        "options": ["Um mapa físico do site.", "Um diagrama que representa a estrutura do conteúdo do site.", "Um código de programação.", "Um tipo de gráfico de dados."],
+        "answer": "Um diagrama que representa a estrutura do conteúdo do site."
+    },
+    {
+        "number": 14,
+        "question": "Qual é uma técnica para teste de usabilidade?",
+        "options": ["Entrevistas em grupo", "Análise de dados de vendas", "Observação de usuários", "Prototipagem"],
+        "answer": "Observação de usuários"
+    },
+    {
+        "number": 15,
+        "question": "Qual das seguintes afirmações é verdadeira sobre acessibilidade?",
+        "options": ["A acessibilidade é opcional em design.", "A acessibilidade é importante apenas para pessoas com deficiência.", "A acessibilidade beneficia todos os usuários.", "A acessibilidade não afeta a usabilidade."],
+        "answer": "A acessibilidade beneficia todos os usuários."
+    },
+    {
+        "number": 16,
+        "question": "O que é um teste A/B?",
+        "options": ["Um teste que compara duas versões de um produto.", "Um teste de usabilidade com um único usuário.", "Um teste de carga para sistemas.", "Um teste de código."],
+        "answer": "Um teste que compara duas versões de um produto."
+    },
+    {
+        "number": 17,
+        "question": "Qual é a principal vantagem de usar protótipos?",
+        "options": ["Eles economizam tempo de desenvolvimento.", "Eles ajudam a visualizar a ideia antes da implementação.", "Eles reduzem a necessidade de pesquisa de usuário.", "Eles são a versão final do produto."],
+        "answer": "Eles ajudam a visualizar a ideia antes da implementação."
+    },
+    {
+        "number": 18,
+        "question": "Qual é a melhor prática para a navegação de um site?",
+        "options": ["Usar muitos menus suspensos.", "Manter a navegação simples e clara.", "Ocultar informações importantes.", "Usar uma linguagem técnica complicada."],
+        "answer": "Manter a navegação simples e clara."
+    },
+    {
+        "number": 19,
+        "question": "O que é feedback do usuário?",
+        "options": ["Informações coletadas após o lançamento de um produto.", "Respostas imediatas a ações dos usuários.", "Dados financeiros sobre vendas.", "Comentários da equipe de desenvolvimento."],
+        "answer": "Respostas imediatas a ações dos usuários."
+    },
+    {
+        "number": 20,
+        "question": "O que é um cenário de uso?",
+        "options": ["Um modelo de design.", "Uma descrição de como um usuário interage com o produto.", "Um gráfico de dados.", "Um documento técnico."],
+        "answer": "Uma descrição de como um usuário interage com o produto."
+    },
+    {
+        "number": 21,
+        "question": "Qual é a função do design de interação?",
+        "options": ["Focar apenas na estética do produto.", "Definir como os usuários interagem com o produto.", "Criar novos métodos de pesquisa.", "Analisar dados de mercado."],
+        "answer": "Definir como os usuários interagem com o produto."
+    },
+    {
+        "number": 22,
+        "question": "O que é uma heurística de usabilidade?",
+        "options": ["Uma regra geral para ajudar a avaliar a usabilidade.", "Uma técnica de programação.", "Um tipo de design visual.", "Um método de pesquisa."],
+        "answer": "Uma regra geral para ajudar a avaliar a usabilidade."
+    },
+    {
+        "number": 23,
+        "question": "Qual é o papel do designer de UX?",
+        "options": ["Programar o produto.", "Criar interfaces visuais atraentes.", "Melhorar a experiência do usuário com o produto.", "Vender o produto."],
+        "answer": "Melhorar a experiência do usuário com o produto."
+    },
+    {
+        "number": 24,
+        "question": "Qual é um exemplo de um elemento de design responsivo?",
+        "options": ["Tabelas fixas.", "Imagens que se redimensionam automaticamente.", "Textos que não se ajustam à tela.", "Menus que não se adaptam."],
+        "answer": "Imagens que se redimensionam automaticamente."
+    },
+    {
+        "number": 25,
+        "question": "O que é um painel de controle?",
+        "options": ["Um tipo de hardware.", "Uma interface que permite ao usuário gerenciar e visualizar informações.", "Um teste de usabilidade.", "Um esboço inicial do design."],
+        "answer": "Uma interface que permite ao usuário gerenciar e visualizar informações."
+    },
+    {
+        "number": 26,
+        "question": "Qual é o objetivo de um estudo de caso em UX?",
+        "options": ["Testar um produto com usuários.", "Analisar um projeto específico para aprender com ele.", "Criar um novo design.", "Vender um produto."],
+        "answer": "Analisar um projeto específico para aprender com ele."
+    },
+    {
+        "number": 27,
+        "question": "O que é design inclusivo?",
+        "options": ["Design que atende a um público específico.", "Design que busca incluir todas as pessoas, independentemente de habilidades ou necessidades.", "Design que ignora a acessibilidade.", "Design que é esteticamente agradável."],
+        "answer": "Design que busca incluir todas as pessoas, independentemente de habilidades ou necessidades."
+    },
+    {
+        "number": 28,
+        "question": "Qual é a função de um gráfico de fluxo?",
+        "options": ["Visualizar dados financeiros.", "Mostrar o caminho que um usuário percorre em um site ou aplicativo.", "Criar uma interface visual.", "Fazer análises de mercado."],
+        "answer": "Mostrar o caminho que um usuário percorre em um site ou aplicativo."
+    },
+    {
+        "number": 29,
+        "question": "O que é um teste de usabilidade remoto?",
+        "options": ["Um teste realizado em um local específico.", "Um teste que permite que usuários participem de qualquer lugar.", "Um teste que não requer feedback.", "Um teste focado em design visual."],
+        "answer": "Um teste que permite que usuários participem de qualquer lugar."
+    },
+    {
+        "number": 30,
+        "question": "Qual é um exemplo de um erro de usabilidade?",
+        "options": ["O botão 'Enviar' está em uma posição lógica.", "O texto é difícil de ler.", "As imagens são de alta qualidade.", "A navegação é intuitiva."],
+        "answer": "O texto é difícil de ler."
+    },
+    {
+        "number": 31,
+        "question": "O que é um MVP (Minimum Viable Product)?",
+        "options": ["O produto mais complexo possível.", "Uma versão básica do produto com funcionalidades essenciais.", "Um produto finalizado.", "Um protótipo avançado."],
+        "answer": "Uma versão básica do produto com funcionalidades essenciais."
+    },
+    {
+        "number": 32,
+        "question": "Qual é a principal vantagem de fazer testes de usabilidade?",
+        "options": ["Eles aumentam o tempo de desenvolvimento.", "Eles ajudam a identificar problemas antes do lançamento.", "Eles são caros e demorados.", "Eles não fornecem feedback útil."],
+        "answer": "Eles ajudam a identificar problemas antes do lançamento."
+    },
+    {
+        "number": 33,
+        "question": "O que é um 'call to action' (CTA)?",
+        "options": ["Um botão que solicita a interação do usuário.", "Um tipo de gráfico.", "Uma técnica de pesquisa.", "Um método de análise."],
+        "answer": "Um botão que solicita a interação do usuário."
+    },
+    {
+        "number": 34,
+        "question": "Qual é a importância da tipografia em UX?",
+        "options": ["Não é relevante.", "A tipografia afeta a legibilidade e a estética do design.", "A tipografia deve ser ignorada.", "A tipografia é secundária ao design visual."],
+        "answer": "A tipografia afeta a legibilidade e a estética do design."
+    },
+    {
+        "number": 35,
+        "question": "O que é um teste de campo?",
+        "options": ["Um teste feito em um ambiente controlado.", "Um teste realizado em situações do mundo real.", "Um teste focado em design visual.", "Um teste que não envolve usuários."],
+        "answer": "Um teste realizado em situações do mundo real."
+    },
+    {
+        "number": 36,
+        "question": "Qual é a melhor prática ao criar formulários?",
+        "options": ["Incluir muitos campos.", "Manter o número de campos ao mínimo necessário.", "Usar jargão técnico.", "Fazer com que o usuário adivinhe informações."],
+        "answer": "Manter o número de campos ao mínimo necessário."
+    },
+    {
+        "number": 37,
+        "question": "O que significa 'design iterativo'?",
+        "options": ["Um design que não muda.", "Um design que é continuamente melhorado com base no feedback.", "Um design que ignora as necessidades do usuário.", "Um design que é finalizado antes de ser testado."],
+        "answer": "Um design que é continuamente melhorado com base no feedback."
+    },
+    {
+        "number": 38,
+        "question": "Qual é a função do mapeamento de jornada do usuário?",
+        "options": ["Visualizar como os dados são processados.", "Mostrar como os usuários interagem com um produto ao longo do tempo.", "Criar novos produtos.", "Vender produtos."],
+        "answer": "Mostrar como os usuários interagem com um produto ao longo do tempo."
+    },
+    {
+        "number": 39,
+        "question": "O que é um feedback 360 graus?",
+        "options": ["Feedback de uma única fonte.", "Feedback que vem de várias partes interessadas.", "Feedback focado em design visual.", "Feedback que ignora o usuário."],
+        "answer": "Feedback que vem de várias partes interessadas."
+    },
+    {
+        "number": 40,
+        "question": "Qual é uma das principais características de um design acessível?",
+        "options": ["Complexidade visual.", "Uso de cores específicas.", "Clareza e legibilidade para todos os usuários.", "Exclusão de certos grupos."],
+        "answer": "Clareza e legibilidade para todos os usuários."
+    },
+    {
+        "number": 41,
+        "question": "O que é um painel de testes de usabilidade?",
+        "options": ["Um grupo de especialistas que avalia um produto.", "Um painel que não fornece feedback.", "Um método de análise financeira.", "Um tipo de software."],
+        "answer": "Um grupo de especialistas que avalia um produto."
+    },
+    {
+        "number": 42,
+        "question": "Qual é a finalidade de um protótipo de alta fidelidade?",
+        "options": ["Testar conceitos iniciais.", "Criar um modelo final que se aproxima do produto real.", "Ignorar o feedback do usuário.", "Reduzir custos."],
+        "answer": "Criar um modelo final que se aproxima do produto real."
+    },
+    {
+        "number": 43,
+        "question": "Qual é a função de um grid em design?",
+        "options": ["Ignorar a estrutura.", "Organizar elementos de forma consistente.", "Criar caos visual.", "Usar cores aleatórias."],
+        "answer": "Organizar elementos de forma consistente."
+    },
+    {
+        "number": 44,
+        "question": "Qual é a função de um 'heatmap'?",
+        "options": ["Visualizar dados financeiros.", "Mostrar onde os usuários clicam mais em um site.", "Analisar a velocidade de carregamento do site.", "Criar novos designs."],
+        "answer": "Mostrar onde os usuários clicam mais em um site."
+    },
+    {
+        "number": 45,
+        "question": "O que é um 'user story'?",
+        "options": ["Um conto sobre o usuário.", "Uma descrição curta que captura uma necessidade do usuário.", "Um método de pesquisa.", "Um teste de usabilidade."],
+        "answer": "Uma descrição curta que captura uma necessidade do usuário."
+    },
+    {
+        "number": 46,
+        "question": "Qual é a importância da cor em UX?",
+        "options": ["Não tem importância.", "A cor pode afetar as emoções e a legibilidade.", "A cor deve ser aleatória.", "A cor deve ser ignorada."],
+        "answer": "A cor pode afetar as emoções e a legibilidade."
+    },
+    {
+        "number": 47,
+        "question": "O que é um diagrama de afinidade?",
+        "options": ["Um gráfico financeiro.", "Uma técnica para organizar ideias e dados relacionados.", "Um modelo de design.", "Um tipo de teste de usabilidade."],
+        "answer": "Uma técnica para organizar ideias e dados relacionados."
+    },
+    {
+        "number": 48,
+        "question": "Qual é a principal função do design emocional?",
+        "options": ["Ignorar a experiência do usuário.", "Criar uma conexão emocional com os usuários.", "Focar apenas na funcionalidade.", "Aumentar a complexidade do design."],
+        "answer": "Criar uma conexão emocional com os usuários."
+    },
+    {
+        "number": 49,
+        "question": "O que é um 'style guide'?",
+        "options": ["Um guia para a estética e a identidade visual de um produto.", "Um teste de usabilidade.", "Um método de análise financeira.", "Um protótipo."],
+        "answer": "Um guia para a estética e a identidade visual de um produto."
+    },
+    {
+        "number": 50,
+        "question": "Qual é a melhor prática ao escrever conteúdo para a web?",
+        "options": ["Usar jargão técnico.", "Escrever de forma clara e concisa.", "Ignorar a legibilidade.", "Usar parágrafos longos."],
+        "answer": "Escrever de forma clara e concisa."
+    },
+    {
+        "number": 51,
+        "question": "O que é 'responsive design'?",
+        "options": ["Um design que não se adapta a diferentes dispositivos.", "Um design que muda com base no dispositivo do usuário.", "Um tipo de software.", "Um método de teste."],
+        "answer": "Um design que muda com base no dispositivo do usuário."
+    },
+    {
+        "number": 52,
+        "question": "Qual é um dos princípios do design universal?",
+        "options": ["Exclusão de usuários com deficiência.", "Acessibilidade para todos, independentemente de habilidades.", "Ignorar feedback do usuário.", "Aumentar a complexidade do design."],
+        "answer": "Acessibilidade para todos, independentemente de habilidades."
+    },
+    {
+        "number": 53,
+        "question": "Qual é o foco do design visual?",
+        "options": ["Criar a funcionalidade do produto.", "Criar a estética e a experiência visual do produto.", "Gerenciar a equipe de desenvolvimento.", "Testar a usabilidade."],
+        "answer": "Criar a estética e a experiência visual do produto."
+    },
+    {
+        "number": 54,
+        "question": "Qual é a importância do teste de usabilidade?",
+        "options": ["Ignorar a opinião dos usuários.", "Identificar problemas de usabilidade antes do lançamento.", "Aumentar o tempo de desenvolvimento.", "Criar um produto mais complexo."],
+        "answer": "Identificar problemas de usabilidade antes do lançamento."
+    },
+    {
+        "number": 55,
+        "question": "O que é um 'dashboard'?",
+        "options": ["Um tipo de gráfico.", "Uma interface que apresenta dados e informações importantes de forma visual.", "Um método de pesquisa.", "Um software de design."],
+        "answer": "Uma interface que apresenta dados e informações importantes de forma visual."
+    },
+    {
+        "number": 56,
+        "question": "O que significa 'affordance' em design?",
+        "options": ["A estética de um produto.", "A propriedade de um objeto que sugere sua funcionalidade.", "A complexidade de um produto.", "O preço de um produto."],
+        "answer": "A propriedade de um objeto que sugere sua funcionalidade."
+    },
+    {
+        "number": 57,
+        "question": "Qual é a importância do protótipo em UX?",
+        "options": ["Ignorar o feedback do usuário.", "Visualizar a ideia antes do desenvolvimento completo.", "Criar um produto finalizado.", "Reduzir custos."],
+        "answer": "Visualizar a ideia antes do desenvolvimento completo."
+    },
+    {
+        "number": 58,
+        "question": "O que é um 'brainstorming'?",
+        "options": ["Uma técnica de resolução de problemas em grupo.", "Um método de teste de usabilidade.", "Um tipo de gráfico.", "Um software de design."],
+        "answer": "Uma técnica de resolução de problemas em grupo."
+    },
+    {
+        "number": 59,
+        "question": "Qual é a função do 'content strategy'?",
+        "options": ["Focar apenas em design visual.", "Planejar e gerenciar o conteúdo de forma eficaz.", "Ignorar a experiência do usuário.", "Criar gráficos complexos."],
+        "answer": "Planejar e gerenciar o conteúdo de forma eficaz."
+    },
+    {
+        "number": 60,
+        "question": "O que é um 'field study'?",
+        "options": ["Um estudo realizado em um ambiente controlado.", "Um estudo realizado no local onde o produto será usado.", "Um método de teste de usabilidade.", "Um tipo de gráfico."],
+        "answer": "Um estudo realizado no local onde o produto será usado."
+    }
+]

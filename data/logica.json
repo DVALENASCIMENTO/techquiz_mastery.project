@@ -1,0 +1,362 @@
+[
+    {
+        "number": 1,
+        "question": "1. O que é uma variável?",
+        "options": ["Um tipo de dado", "Um espaço na memória para armazenar dados", "Uma função", "Uma estrutura de controle"],
+        "answer": "Um espaço na memória para armazenar dados"
+    },
+    {
+        "number": 2,
+        "question": "2. Qual é o operador para adição em programação?",
+        "options": ["+", "-", "*", "/"],
+        "answer": "+"
+    },
+    {
+        "number": 3,
+        "question": "3. O que significa 'if' em programação?",
+        "options": ["Uma estrutura de repetição", "Uma condição", "Uma função", "Uma variável"],
+        "answer": "Uma condição"
+    },
+    {
+        "number": 4,
+        "question": "4. O que é um loop?",
+        "options": ["Uma condição que executa uma vez", "Uma sequência de comandos que se repetem", "Uma estrutura de dados", "Um tipo de variável"],
+        "answer": "Uma sequência de comandos que se repetem"
+    },
+    {
+        "number": 5,
+        "question": "5. O que é uma função?",
+        "options": ["Um conjunto de comandos que realiza uma tarefa específica", "Uma estrutura de dados", "Uma variável", "Uma condição"],
+        "answer": "Um conjunto de comandos que realiza uma tarefa específica"
+    },
+    {
+        "number": 6,
+        "question": "6. O que representa um array?",
+        "options": ["Uma variável única", "Uma lista de valores", "Uma função", "Um loop"],
+        "answer": "Uma lista de valores"
+    },
+    {
+        "number": 7,
+        "question": "7. O que significa 'else' em programação?",
+        "options": ["Uma condição alternativa", "Um loop", "Uma função", "Uma variável"],
+        "answer": "Uma condição alternativa"
+    },
+    {
+        "number": 8,
+        "question": "8. O que é um algoritmo?",
+        "options": ["Um conjunto de instruções para resolver um problema", "Uma linguagem de programação", "Um tipo de dado", "Uma estrutura de controle"],
+        "answer": "Um conjunto de instruções para resolver um problema"
+    },
+    {
+        "number": 9,
+        "question": "9. O que é um operador lógico?",
+        "options": ["Um operador para fazer cálculos matemáticos", "Um operador para manipular strings", "Um operador que retorna verdadeiro ou falso", "Um tipo de loop"],
+        "answer": "Um operador que retorna verdadeiro ou falso"
+    },
+    {
+        "number": 10,
+        "question": "10. Qual desses é um exemplo de um operador de comparação?",
+        "options": ["==", "=", "+", "-"],
+        "answer": "=="
+    },
+    {
+        "number": 11,
+        "question": "11. O que é um comentário no código?",
+        "options": ["Uma linha de código que não é executada", "Uma instrução que altera o fluxo do programa", "Uma variável", "Uma função"],
+        "answer": "Uma linha de código que não é executada"
+    },
+    {
+        "number": 12,
+        "question": "12. O que é um tipo de dado?",
+        "options": ["Uma variável", "Uma estrutura de controle", "Uma classificação de valores", "Um operador"],
+        "answer": "Uma classificação de valores"
+    },
+    {
+        "number": 13,
+        "question": "13. O que é uma estrutura de controle?",
+        "options": ["Um tipo de dado", "Uma maneira de controlar o fluxo do programa", "Uma função", "Um loop"],
+        "answer": "Uma maneira de controlar o fluxo do programa"
+    },
+    {
+        "number": 14,
+        "question": "14. O que significa 'while'?",
+        "options": ["Uma estrutura de repetição", "Uma condição", "Uma função", "Uma variável"],
+        "answer": "Uma estrutura de repetição"
+    },
+    {
+        "number": 15,
+        "question": "15. O que é um valor booleano?",
+        "options": ["Um valor que pode ser verdadeiro ou falso", "Um valor numérico", "Um tipo de string", "Um tipo de array"],
+        "answer": "Um valor que pode ser verdadeiro ou falso"
+    },
+    {
+        "number": 16,
+        "question": "16. O que é um operador aritmético?",
+        "options": ["Um operador para manipular strings", "Um operador para realizar operações matemáticas", "Um operador lógico", "Um tipo de dado"],
+        "answer": "Um operador para realizar operações matemáticas"
+    },
+    {
+        "number": 17,
+        "question": "17. O que é uma exceção?",
+        "options": ["Um erro que ocorre durante a execução do programa", "Uma variável", "Uma função", "Um tipo de loop"],
+        "answer": "Um erro que ocorre durante a execução do programa"
+    },
+    {
+        "number": 18,
+        "question": "18. O que é uma string?",
+        "options": ["Uma sequência de caracteres", "Um tipo de dado numérico", "Uma variável", "Uma função"],
+        "answer": "Uma sequência de caracteres"
+    },
+    {
+        "number": 19,
+        "question": "19. O que é um switch case?",
+        "options": ["Uma estrutura de controle para múltiplas condições", "Uma função", "Um tipo de loop", "Uma variável"],
+        "answer": "Uma estrutura de controle para múltiplas condições"
+    },
+    {
+        "number": 20,
+        "question": "20. O que é recursão?",
+        "options": ["Uma função que chama a si mesma", "Um tipo de loop", "Uma variável", "Uma estrutura de controle"],
+        "answer": "Uma função que chama a si mesma"
+    },
+    {
+        "number": 21,
+        "question": "21. O que é um dicionário?",
+        "options": ["Uma coleção de pares chave-valor", "Uma variável", "Uma função", "Um tipo de dado numérico"],
+        "answer": "Uma coleção de pares chave-valor"
+    },
+    {
+        "number": 22,
+        "question": "22. O que significa 'for'?",
+        "options": ["Uma estrutura de repetição", "Uma função", "Uma condição", "Uma variável"],
+        "answer": "Uma estrutura de repetição"
+    },
+    {
+        "number": 23,
+        "question": "23. O que é uma biblioteca em programação?",
+        "options": ["Um conjunto de funções pré-definidas", "Uma variável", "Uma estrutura de controle", "Um tipo de dado"],
+        "answer": "Um conjunto de funções pré-definidas"
+    },
+    {
+        "number": 24,
+        "question": "24. O que é um loop infinito?",
+        "options": ["Um loop que não tem condição de parada", "Um loop que executa uma vez", "Uma estrutura de controle", "Uma função"],
+        "answer": "Um loop que não tem condição de parada"
+    },
+    {
+        "number": 25,
+        "question": "25. O que é uma condição?",
+        "options": ["Uma expressão que pode ser verdadeira ou falsa", "Uma variável", "Uma função", "Um tipo de dado"],
+        "answer": "Uma expressão que pode ser verdadeira ou falsa"
+    },
+    {
+        "number": 26,
+        "question": "26. O que é um operador de atribuição?",
+        "options": ["Um operador que atribui valores a variáveis", "Um operador para fazer comparações", "Um operador aritmético", "Um tipo de loop"],
+        "answer": "Um operador que atribui valores a variáveis"
+    },
+    {
+        "number": 27,
+        "question": "27. O que é um pseudocódigo?",
+        "options": ["Uma representação informal de um algoritmo", "Um tipo de dado", "Uma função", "Uma estrutura de controle"],
+        "answer": "Uma representação informal de um algoritmo"
+    },
+    {
+        "number": 28,
+        "question": "28. O que é um erro de sintaxe?",
+        "options": ["Um erro que ocorre quando o código não segue as regras da linguagem", "Um erro lógico", "Um tipo de variável", "Uma função"],
+        "answer": "Um erro que ocorre quando o código não segue as regras da linguagem"
+    },
+    {
+        "number": 29,
+        "question": "29. O que é uma condição ternária?",
+        "options": ["Uma forma concisa de escrever uma condição", "Um tipo de loop", "Uma função", "Uma variável"],
+        "answer": "Uma forma concisa de escrever uma condição"
+    },
+    {
+        "number": 30,
+        "question": "30. O que é um número inteiro?",
+        "options": ["Um número sem parte decimal", "Um número com parte decimal", "Uma string", "Uma variável"],
+        "answer": "Um número sem parte decimal"
+    },
+    {
+        "number": 31,
+        "question": "31. O que é uma estrutura de dados?",
+        "options": ["Uma maneira de organizar e armazenar dados", "Uma função", "Um tipo de variável", "Uma condição"],
+        "answer": "Uma maneira de organizar e armazenar dados"
+    },
+    {
+        "number": 32,
+        "question": "32. O que é uma variável global?",
+        "options": ["Uma variável que pode ser acessada de qualquer parte do programa", "Uma variável que só pode ser acessada dentro de uma função", "Uma variável numérica", "Uma função"],
+        "answer": "Uma variável que pode ser acessada de qualquer parte do programa"
+    },
+    {
+        "number": 33,
+        "question": "33. O que é um valor nulo?",
+        "options": ["Um valor que não representa nada", "Um número", "Uma string", "Uma variável"],
+        "answer": "Um valor que não representa nada"
+    },
+    {
+        "number": 34,
+        "question": "34. O que é um loop 'do while'?",
+        "options": ["Um loop que executa pelo menos uma vez", "Um loop que nunca executa", "Um tipo de variável", "Uma função"],
+        "answer": "Um loop que executa pelo menos uma vez"
+    },
+    {
+        "number": 35,
+        "question": "35. O que é uma classe em programação orientada a objetos?",
+        "options": ["Um molde para criar objetos", "Uma função", "Uma variável", "Um tipo de dado"],
+        "answer": "Um molde para criar objetos"
+    },
+    {
+        "number": 36,
+        "question": "36. O que é um objeto?",
+        "options": ["Uma instância de uma classe", "Uma variável", "Uma função", "Um tipo de dado"],
+        "answer": "Uma instância de uma classe"
+    },
+    {
+        "number": 37,
+        "question": "37. O que é herança em programação?",
+        "options": ["Uma maneira de criar uma nova classe baseada em uma classe existente", "Uma estrutura de controle", "Uma função", "Um tipo de variável"],
+        "answer": "Uma maneira de criar uma nova classe baseada em uma classe existente"
+    },
+    {
+        "number": 38,
+        "question": "38. O que é polimorfismo?",
+        "options": ["A capacidade de um objeto assumir muitas formas", "Uma estrutura de controle", "Uma função", "Um tipo de dado"],
+        "answer": "A capacidade de um objeto assumir muitas formas"
+    },
+    {
+        "number": 39,
+        "question": "39. O que é encapsulamento?",
+        "options": ["A prática de esconder os detalhes internos de um objeto", "Uma função", "Uma variável", "Uma estrutura de controle"],
+        "answer": "A prática de esconder os detalhes internos de um objeto"
+    },
+    {
+        "number": 40,
+        "question": "40. O que é um construtor?",
+        "options": ["Um método especial para inicializar objetos", "Uma variável", "Uma estrutura de controle", "Um tipo de dado"],
+        "answer": "Um método especial para inicializar objetos"
+    },
+    {
+        "number": 41,
+        "question": "41. O que é uma exceção lançada?",
+        "options": ["Um erro que é gerado manualmente", "Um tipo de variável", "Uma função", "Um operador"],
+        "answer": "Um erro que é gerado manualmente"
+    },
+    {
+        "number": 42,
+        "question": "42. O que é um operador de incremento?",
+        "options": ["Um operador que aumenta o valor de uma variável", "Um operador que diminui o valor de uma variável", "Um tipo de loop", "Uma função"],
+        "answer": "Um operador que aumenta o valor de uma variável"
+    },
+    {
+        "number": 43,
+        "question": "43. O que é um retorno em uma função?",
+        "options": ["O valor que uma função devolve após a execução", "Uma variável", "Uma estrutura de controle", "Um tipo de dado"],
+        "answer": "O valor que uma função devolve após a execução"
+    },
+    {
+        "number": 44,
+        "question": "44. O que é um escopo em programação?",
+        "options": ["A área onde uma variável pode ser acessada", "Uma função", "Um tipo de dado", "Um operador"],
+        "answer": "A área onde uma variável pode ser acessada"
+    },
+    {
+        "number": 45,
+        "question": "45. O que é um framework?",
+        "options": ["Um conjunto de bibliotecas e ferramentas para desenvolver aplicações", "Uma variável", "Uma função", "Uma estrutura de controle"],
+        "answer": "Um conjunto de bibliotecas e ferramentas para desenvolver aplicações"
+    },
+    {
+        "number": 46,
+        "question": "46. O que é uma API?",
+        "options": ["Um conjunto de regras para interação entre sistemas", "Uma variável", "Uma função", "Um tipo de dado"],
+        "answer": "Um conjunto de regras para interação entre sistemas"
+    },
+    {
+        "number": 47,
+        "question": "47. O que é um endpoint?",
+        "options": ["Uma URL que permite acesso a uma API", "Uma variável", "Uma função", "Um tipo de dado"],
+        "answer": "Uma URL que permite acesso a uma API"
+    },
+    {
+        "number": 48,
+        "question": "48. O que é um método?",
+        "options": ["Uma função que pertence a uma classe", "Uma variável", "Uma estrutura de controle", "Um tipo de dado"],
+        "answer": "Uma função que pertence a uma classe"
+    },
+    {
+        "number": 49,
+        "question": "49. O que é um servidor?",
+        "options": ["Uma máquina que fornece serviços a outros dispositivos", "Uma função", "Uma variável", "Um tipo de dado"],
+        "answer": "Uma máquina que fornece serviços a outros dispositivos"
+    },
+    {
+        "number": 50,
+        "question": "50. O que é um cliente?",
+        "options": ["Um dispositivo que solicita serviços de um servidor", "Uma função", "Uma variável", "Um tipo de dado"],
+        "answer": "Um dispositivo que solicita serviços de um servidor"
+    },
+    {
+        "number": 51,
+        "question": "51. O que é um banco de dados?",
+        "options": ["Um sistema que armazena dados de forma organizada", "Uma variável", "Uma função", "Uma estrutura de controle"],
+        "answer": "Um sistema que armazena dados de forma organizada"
+    },
+    {
+        "number": 52,
+        "question": "52. O que é SQL?",
+        "options": ["Uma linguagem de consulta para bancos de dados", "Uma variável", "Uma função", "Um tipo de dado"],
+        "answer": "Uma linguagem de consulta para bancos de dados"
+    },
+    {
+        "number": 53,
+        "question": "53. O que é um sistema de gerenciamento de banco de dados (SGBD)?",
+        "options": ["Um software que gerencia bancos de dados", "Uma função", "Uma variável", "Um tipo de dado"],
+        "answer": "Um software que gerencia bancos de dados"
+    },
+    {
+        "number": 54,
+        "question": "54. O que é um modelo relacional de dados?",
+        "options": ["Um modelo que organiza dados em tabelas relacionadas", "Uma variável", "Uma função", "Uma estrutura de controle"],
+        "answer": "Um modelo que organiza dados em tabelas relacionadas"
+    },
+    {
+        "number": 55,
+        "question": "55. O que é uma consulta?",
+        "options": ["Uma instrução para recuperar dados de um banco de dados", "Uma variável", "Uma função", "Um tipo de dado"],
+        "answer": "Uma instrução para recuperar dados de um banco de dados"
+    },
+    {
+        "number": 56,
+        "question": "56. O que é um backup?",
+        "options": ["Uma cópia de segurança dos dados", "Uma função", "Uma variável", "Uma estrutura de controle"],
+        "answer": "Uma cópia de segurança dos dados"
+    },
+    {
+        "number": 57,
+        "question": "57. O que é um ataque DDoS?",
+        "options": ["Um ataque que visa tornar um serviço indisponível", "Uma variável", "Uma função", "Um tipo de dado"],
+        "answer": "Um ataque que visa tornar um serviço indisponível"
+    },
+    {
+        "number": 58,
+        "question": "58. O que é criptografia?",
+        "options": ["Uma técnica para proteger dados", "Uma variável", "Uma função", "Um tipo de dado"],
+        "answer": "Uma técnica para proteger dados"
+    },
+    {
+        "number": 59,
+        "question": "59. O que é um certificado digital?",
+        "options": ["Um arquivo que garante a identidade de um site", "Uma variável", "Uma função", "Um tipo de dado"],
+        "answer": "Um arquivo que garante a identidade de um site"
+    },
+    {
+        "number": 60,
+        "question": "60. O que é a web semântica?",
+        "options": ["Uma forma de melhorar a interpretação de dados na web", "Uma variável", "Uma função", "Um tipo de dado"],
+        "answer": "Uma forma de melhorar a interpretação de dados na web"
+    }
+]

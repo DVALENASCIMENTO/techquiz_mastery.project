@@ -1,0 +1,662 @@
+[
+    {
+        "number": 1,
+        "question": "1. O que é Programação Orientada a Objetos (POO)?",
+        "options": [
+            "a) Um paradigma de programação que usa objetos e classes.",
+            "b) Um método de programação procedural.",
+            "c) Uma técnica de programação funcional.",
+            "d) Um estilo de programação baseado em eventos."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 2,
+        "question": "2. Quais são os pilares da POO?",
+        "options": [
+            "a) Abstração, Encapsulamento, Herança e Polimorfismo.",
+            "b) Funções, Objetos, Métodos e Propriedades.",
+            "c) Classes, Objetos, Módulos e Pacotes.",
+            "d) Variáveis, Funções, Estruturas de Controle e Laços."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 3,
+        "question": "3. O que é encapsulamento?",
+        "options": [
+            "a) O ato de esconder os dados de um objeto.",
+            "b) O processo de criar uma nova classe a partir de uma classe existente.",
+            "c) O ato de transformar dados em métodos.",
+            "d) A habilidade de um objeto assumir várias formas."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 4,
+        "question": "4. O que é herança?",
+        "options": [
+            "a) O processo de criar uma nova classe baseada em uma classe existente.",
+            "b) A habilidade de um objeto alterar seu comportamento.",
+            "c) O ato de ocultar detalhes de implementação.",
+            "d) O método de agrupar dados e métodos."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 5,
+        "question": "5. O que é polimorfismo?",
+        "options": [
+            "a) A capacidade de diferentes classes responderem ao mesmo método de formas diferentes.",
+            "b) O ato de encapsular dados em uma classe.",
+            "c) O uso de interfaces para definir métodos.",
+            "d) O processo de herdar métodos de uma classe base."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 6,
+        "question": "6. O que é uma classe?",
+        "options": [
+            "a) Um modelo ou estrutura que define um objeto.",
+            "b) Uma instância de um objeto.",
+            "c) Um método que opera em dados.",
+            "d) Um grupo de funções relacionadas."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 7,
+        "question": "7. O que é um objeto?",
+        "options": [
+            "a) Uma instância de uma classe.",
+            "b) Um conjunto de funções.",
+            "c) Uma estrutura de dados.",
+            "d) Um método de uma classe."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 8,
+        "question": "8. O que é um construtor?",
+        "options": [
+            "a) Um método especial que é chamado quando um objeto é criado.",
+            "b) Um método que destrói um objeto.",
+            "c) Um método que inicializa variáveis.",
+            "d) Um método que modifica o comportamento de uma classe."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 9,
+        "question": "9. O que é uma classe abstrata?",
+        "options": [
+            "a) Uma classe que não pode ser instanciada diretamente.",
+            "b) Uma classe que não contém métodos.",
+            "c) Uma classe que contém apenas métodos concretos.",
+            "d) Uma classe que pode ser instanciada normalmente."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 10,
+        "question": "10. O que é uma interface?",
+        "options": [
+            "a) Um contrato que uma classe deve seguir.",
+            "b) Uma classe que não pode ser instanciada.",
+            "c) Uma estrutura de dados que armazena objetos.",
+            "d) Um método que define comportamento."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 11,
+        "question": "11. O que é um método?",
+        "options": [
+            "a) Uma função definida dentro de uma classe.",
+            "b) Uma variável que armazena dados.",
+            "c) Uma estrutura de controle de fluxo.",
+            "d) Uma instância de uma classe."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 12,
+        "question": "12. O que é a inicialização tardia (lazy initialization)?",
+        "options": [
+            "a) Inicializar um objeto no momento em que é necessário, em vez de no início.",
+            "b) Inicializar todas as variáveis no início da classe.",
+            "c) Inicializar métodos apenas quando são chamados.",
+            "d) Inicializar dados estáticos na criação da classe."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 13,
+        "question": "13. Qual é a função principal de um construtor?",
+        "options": [
+            "a) Inicializar a classe e seus atributos.",
+            "b) Destruir objetos quando não são mais necessários.",
+            "c) Modificar o comportamento de métodos.",
+            "d) Criar novos objetos com base em um protótipo."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 14,
+        "question": "14. Qual é a diferença entre uma variável de instância e uma variável de classe?",
+        "options": [
+            "a) Variáveis de instância pertencem a objetos específicos, enquanto variáveis de classe são compartilhadas por todas as instâncias da classe.",
+            "b) Variáveis de classe pertencem a objetos específicos, enquanto variáveis de instância são compartilhadas por todas as instâncias.",
+            "c) Variáveis de instância são acessíveis apenas dentro de métodos, enquanto variáveis de classe são globais.",
+            "d) Variáveis de instância definem métodos, enquanto variáveis de classe definem atributos."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 15,
+        "question": "15. O que significa uma classe ser 'fechada para modificação'?",
+        "options": [
+            "a) A classe não pode ser alterada depois de ser escrita.",
+            "b) A classe não deve ser alterada diretamente, mas deve ser estendida por subclasses.",
+            "c) A classe deve ser excluída do código quando não for mais necessária.",
+            "d) A classe deve ser acessível somente por métodos internos."
+        ],
+        "answer": "b"
+    },
+    {
+        "number": 16,
+        "question": "16. Qual é a função principal de uma classe derivada?",
+        "options": [
+            "a) Fornecer uma implementação para métodos abstratos.",
+            "b) Servir como base para criar novos objetos.",
+            "c) Adicionar ou modificar funcionalidades de uma classe base.",
+            "d) Criar uma instância única de uma classe."
+        ],
+        "answer": "c"
+    },
+    {
+        "number": 17,
+        "question": "17. O que é uma variável de instância?",
+        "options": [
+            "a) Uma variável que pertence a uma classe e não a um objeto específico.",
+            "b) Uma variável que é criada quando um objeto é instanciado e pertence a esse objeto.",
+            "c) Uma variável que é acessível em todas as partes de um programa.",
+            "d) Uma variável que define o comportamento de um método."
+        ],
+        "answer": "b"
+    },
+    {
+        "number": 18,
+        "question": "18. O que é um método de classe?",
+        "options": [
+            "a) Um método que opera sobre dados específicos de uma instância.",
+            "b) Um método que opera sobre dados compartilhados por todas as instâncias da classe.",
+            "c) Um método que não tem acesso aos dados da classe.",
+            "d) Um método que pode ser sobrescrito por subclasses."
+        ],
+        "answer": "b"
+    },
+    {
+        "number": 19,
+        "question": "19. O que é uma classe concreta?",
+        "options": [
+            "a) Uma classe que não pode ser instanciada diretamente.",
+            "b) Uma classe que pode ser instanciada e contém implementações completas de seus métodos.",
+            "c) Uma classe que apenas define uma interface para outras classes.",
+            "d) Uma classe que não tem métodos."
+        ],
+        "answer": "b"
+    },
+    {
+        "number": 20,
+        "question": "20. O que significa o termo 'abstração' em POO?",
+        "options": [
+            "a) Criar objetos a partir de classes concretas.",
+            "b) Definir uma interface ou uma classe base com métodos que as subclasses devem implementar.",
+            "c) Combinar múltiplas classes em uma única classe.",
+            "d) Inicializar variáveis com valores padrão."
+        ],
+        "answer": "b"
+    },
+    {
+        "number": 21,
+        "question": "21. O que é a palavra-chave 'this' em POO?",
+        "options": [
+            "a) Um referência ao objeto atual.",
+            "b) Um método que instancia uma classe.",
+            "c) Uma variável global.",
+            "d) Um parâmetro de classe."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 22,
+        "question": "22. O que é um 'getter'?",
+        "options": [
+            "a) Um método que recupera o valor de um atributo.",
+            "b) Um método que define o valor de um atributo.",
+            "c) Um método que destrói um objeto.",
+            "d) Um método que instancia uma nova classe."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 23,
+        "question": "23. O que é um 'setter'?",
+        "options": [
+            "a) Um método que altera o valor de um atributo.",
+            "b) Um método que recupera o valor de um atributo.",
+            "c) Um método que destrói um objeto.",
+            "d) Um método que instancia uma nova classe."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 24,
+        "question": "24. O que é um método estático?",
+        "options": [
+            "a) Um método que pertence à classe e não a instâncias dela.",
+            "b) Um método que só pode ser chamado em uma instância da classe.",
+            "c) Um método que não pode ser sobrescrito.",
+            "d) Um método que não tem parâmetros."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 25,
+        "question": "25. O que é uma exceção em POO?",
+        "options": [
+            "a) Um erro que ocorre durante a execução de um programa.",
+            "b) Um método que altera o comportamento de uma classe.",
+            "c) Uma variável que armazena erros.",
+            "d) Um tipo de classe especial."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 26,
+        "question": "26. O que é o padrão de design Singleton?",
+        "options": [
+            "a) Garante que uma classe tenha apenas uma instância e fornece um ponto de acesso global a essa instância.",
+            "b) Permite que uma classe tenha várias instâncias.",
+            "c) Cria novos objetos copiando um protótipo existente.",
+            "d) Define uma interface para criar objetos."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 27,
+        "question": "27. Qual é a principal vantagem da composição sobre herança?",
+        "options": [
+            "a) A composição permite alterar o comportamento de um objeto em tempo de execução, enquanto a herança não.",
+            "b) A composição cria uma nova classe para cada instância.",
+            "c) A composição é mais simples de implementar do que a herança.",
+            "d) A composição não permite adicionar funcionalidades a um objeto."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 28,
+        "question": "28. O que é o padrão de design Decorator?",
+        "options": [
+            "a) Permite adicionar responsabilidades a um objeto dinamicamente.",
+            "b) Define uma interface para criar objetos.",
+            "c) Cria novos objetos copiando um protótipo existente.",
+            "d) Permite que uma classe tenha uma única estratégia de comportamento."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 29,
+        "question": "29. Qual é a principal característica do padrão de design Command?",
+        "options": [
+            "a) Permite encapsular uma solicitação como um objeto, possibilitando parametrizar clientes com diferentes solicitações.",
+            "b) Cria novos objetos copiando um protótipo existente.",
+            "c) Define uma interface para a criação de objetos.",
+            "d) Permite que uma classe adicione funcionalidades a um objeto de forma dinâmica."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 30,
+        "question": "30. O que é o padrão de design Proxy?",
+        "options": [
+            "a) Fornece um substituto ou representante para outro objeto.",
+            "b) Cria uma nova classe para cada instância de um objeto.",
+            "c) Permite adicionar responsabilidades a um objeto dinamicamente.",
+            "d) Observa mudanças no estado de um objeto e notifica outros objetos."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 31,
+        "question": "31. O que é o padrão de design Composite?",
+        "options": [
+            "a) Permite que objetos sejam tratados como uma única unidade.",
+            "b) Define uma interface para a criação de objetos.",
+            "c) Cria novos objetos passo a passo.",
+            "d) Observa mudanças no estado de um objeto e notifica outros objetos."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 32,
+        "question": "32. O que é o padrão de design Builder?",
+        "options": [
+            "a) Cria objetos complexos passo a passo.",
+            "b) Define uma interface para criar objetos.",
+            "c) Cria uma nova classe para cada instância de um objeto.",
+            "d) Permite adicionar responsabilidades a um objeto dinamicamente."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 33,
+        "question": "33. O que é o padrão de design Adapter?",
+        "options": [
+            "a) Permite que classes com interfaces incompatíveis trabalhem juntas.",
+            "b) Cria novos objetos copiando um protótipo existente.",
+            "c) Define uma interface para a criação de objetos.",
+            "d) Permite que uma classe adicione funcionalidades a um objeto de forma dinâmica."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 34,
+        "question": "34. O que é o padrão de design Bridge?",
+        "options": [
+            "a) Separa a abstração da implementação para permitir que ambos variem independentemente.",
+            "b) Permite adicionar responsabilidades a um objeto dinamicamente.",
+            "c) Observa mudanças no estado de um objeto e notifica outros objetos.",
+            "d) Define uma interface para criar objetos."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 35,
+        "question": "35. O que é o padrão de design Mediator?",
+        "options": [
+            "a) Define um objeto que encapsula a forma como um conjunto de objetos interage.",
+            "b) Permite criar novos objetos copiando um protótipo existente.",
+            "c) Cria uma nova classe para cada instância de um objeto.",
+            "d) Observa mudanças no estado de um objeto e notifica outros objetos."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 36,
+        "question": "36. O que é o padrão de design State?",
+        "options": [
+            "a) Permite que um objeto altere seu comportamento quando seu estado interno muda.",
+            "b) Define uma interface para a criação de objetos.",
+            "c) Cria novos objetos copiando um protótipo existente.",
+            "d) Permite que classes com interfaces incompatíveis trabalhem juntas."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 37,
+        "question": "37. O que é o padrão de design Iterator?",
+        "options": [
+            "a) Permite percorrer elementos de um objeto agregado sem expor sua representação subjacente.",
+            "b) Cria novos objetos copiando um protótipo existente.",
+            "c) Define uma interface para a criação de objetos.",
+            "d) Permite adicionar funcionalidades a um objeto de forma dinâmica."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 38,
+        "question": "38. O que é o padrão de design Flyweight?",
+        "options": [
+            "a) Usa compartilhamento para suportar grandes quantidades de objetos com eficiência.",
+            "b) Define uma interface para criar objetos.",
+            "c) Cria novos objetos passo a passo.",
+            "d) Observa mudanças no estado de um objeto e notifica outros objetos."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 39,
+        "question": "39. Qual é a principal diferença entre composição e herança?",
+        "options": [
+            "a) Composição combina objetos para criar novos comportamentos, enquanto herança estende funcionalidades de uma classe existente.",
+            "b) Composição permite reutilizar código enquanto herança cria novas classes.",
+            "c) Composição define uma nova classe a partir de uma classe existente, enquanto herança cria novos métodos com o mesmo nome.",
+            "d) Composição é usada para criar instâncias únicas, enquanto herança permite múltiplas instâncias."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 40,
+        "question": "40. O que é um método abstrato?",
+        "options": [
+            "a) Um método que não tem implementação em uma classe base e deve ser implementado em classes derivadas.",
+            "b) Um método que não pode ser chamado diretamente.",
+            "c) Um método que possui uma implementação padrão.",
+            "d) Um método que não aceita parâmetros."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 41,
+        "question": "41. O que significa 'ocultamento de método'?",
+        "options": [
+            "a) Quando um método em uma classe derivada tem o mesmo nome que um método na classe base, mas é diferente.",
+            "b) Quando um método é escondido de uma classe base.",
+            "c) Quando um método é sobrescrito na classe derivada.",
+            "d) Quando um método é público na classe base e privado na classe derivada."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 42,
+        "question": "42. O que é o padrão de design Observer?",
+        "options": [
+            "a) Define uma dependência um-para-muitos entre objetos de forma que quando um objeto muda de estado, todos os seus dependentes são notificados.",
+            "b) Permite que classes com interfaces incompatíveis trabalhem juntas.",
+            "c) Cria novos objetos passo a passo.",
+            "d) Define uma interface para criar objetos."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 43,
+        "question": "43. O que é um método concreto?",
+        "options": [
+            "a) Um método que tem uma implementação completa e pode ser chamado.",
+            "b) Um método que não pode ser chamado diretamente.",
+            "c) Um método que define uma interface.",
+            "d) Um método que é abstrato."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 44,
+        "question": "44. O que é a palavra-chave 'final' em POO?",
+        "options": [
+            "a) Indica que uma classe não pode ser estendida, um método não pode ser sobrescrito ou uma variável não pode ser modificada.",
+            "b) Indica que uma variável pode ser modificada.",
+            "c) Define uma classe que pode ser instanciada.",
+            "d) É um método que finaliza a execução de um objeto."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 45,
+        "question": "45. O que é uma classe interna?",
+        "options": [
+            "a) Uma classe definida dentro de outra classe.",
+            "b) Uma classe que não pode ser acessada fora de seu pacote.",
+            "c) Uma classe que não pode ser instanciada.",
+            "d) Uma classe que não possui métodos."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 46,
+        "question": "46. O que significa 'refatoração' em POO?",
+        "options": [
+            "a) O processo de reestruturar código existente para melhorar sua legibilidade e manutenção sem alterar seu comportamento externo.",
+            "b) O processo de adicionar novos métodos a uma classe.",
+            "c) O ato de criar uma nova classe a partir de uma classe existente.",
+            "d) O processo de excluir métodos desnecessários."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 47,
+        "question": "47. O que é uma classe de exceção?",
+        "options": [
+            "a) Uma classe que representa erros ou exceções que ocorrem durante a execução do programa.",
+            "b) Uma classe que não pode ser instanciada.",
+            "c) Uma classe que define métodos de tratamento.",
+            "d) Uma classe que contém métodos de entrada e saída."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 48,
+        "question": "48. O que é o padrão de design Strategy?",
+        "options": [
+            "a) Permite que um algoritmo varie independentemente dos clientes que o utilizam.",
+            "b) Define uma interface para criar objetos.",
+            "c) Observa mudanças no estado de um objeto e notifica outros objetos.",
+            "d) Cria novos objetos copiando um protótipo existente."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 49,
+        "question": "49. O que é o padrão de design Template Method?",
+        "options": [
+            "a) Define o esqueleto de um algoritmo em uma operação, deixando alguns passos a serem implementados por subclasses.",
+            "b) Permite que classes com interfaces incompatíveis trabalhem juntas.",
+            "c) Cria novos objetos passo a passo.",
+            "d) Observa mudanças no estado de um objeto e notifica outros objetos."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 50,
+        "question": "50. O que é um 'namespace' em POO?",
+        "options": [
+            "a) Um escopo onde um conjunto de nomes de variáveis, classes e métodos é definido para evitar conflitos.",
+            "b) Um método que organiza funções relacionadas.",
+            "c) Uma estrutura de dados que armazena objetos.",
+            "d) Um tipo de classe especial."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 51,
+        "question": "51. O que é um 'mixin'?",
+        "options": [
+            "a) Uma forma de incluir funcionalidades em uma classe sem usar herança.",
+            "b) Um tipo de classe que não pode ser instanciada.",
+            "c) Uma classe que não possui métodos.",
+            "d) Um método que altera o comportamento de uma classe."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 52,
+        "question": "52. O que é 'desacoplamento' em POO?",
+        "options": [
+            "a) Reduzir as dependências entre diferentes partes de um sistema.",
+            "b) Criar dependências entre módulos.",
+            "c) Combinar diferentes classes em uma única classe.",
+            "d) Aumentar as interações entre objetos."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 53,
+        "question": "53. O que significa 'sinalização' em POO?",
+        "options": [
+            "a) O processo de notificar um objeto sobre uma mudança de estado.",
+            "b) A capacidade de um objeto de se adaptar a diferentes situações.",
+            "c) O ato de instanciar novos objetos.",
+            "d) O uso de variáveis globais."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 54,
+        "question": "54. O que é uma função de callback?",
+        "options": [
+            "a) Uma função que é passada como argumento para outra função.",
+            "b) Uma função que não pode ser chamada diretamente.",
+            "c) Uma função que altera o estado de uma classe.",
+            "d) Uma função que retorna um valor."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 55,
+        "question": "55. O que é um sistema de tipos em POO?",
+        "options": [
+            "a) Define como diferentes tipos de dados podem interagir entre si.",
+            "b) Uma maneira de armazenar dados em uma classe.",
+            "c) Um conjunto de regras para declarar funções.",
+            "d) Um tipo de classe especial."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 56,
+        "question": "56. O que é um algoritmo em POO?",
+        "options": [
+            "a) Uma sequência de passos para resolver um problema específico.",
+            "b) Um tipo de classe que não pode ser instanciada.",
+            "c) Uma função que não aceita parâmetros.",
+            "d) Uma estrutura de dados que armazena objetos."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 57,
+        "question": "57. O que é a injeção de dependência?",
+        "options": [
+            "a) Um padrão de design que permite que um objeto receba suas dependências de forma externa.",
+            "b) Um método que cria instâncias de uma classe.",
+            "c) Um tipo de classe que não pode ser estendida.",
+            "d) Uma função que altera o estado de uma classe."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 58,
+        "question": "58. O que é um modelo de dados?",
+        "options": [
+            "a) Uma representação de como os dados são organizados e estruturados.",
+            "b) Um método que altera o comportamento de uma classe.",
+            "c) Uma função que não pode ser chamada diretamente.",
+            "d) Um tipo de classe especial."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 59,
+        "question": "59. O que é um serviço em POO?",
+        "options": [
+            "a) Uma funcionalidade que pode ser usada por diferentes partes de um sistema.",
+            "b) Um tipo de classe que não pode ser instanciada.",
+            "c) Uma função que altera o estado de uma classe.",
+            "d) Um método que cria novas instâncias."
+        ],
+        "answer": "a"
+    },
+    {
+        "number": 60,
+        "question": "60. O que é a programação defensiva?",
+        "options": [
+            "a) Uma abordagem de programação que se concentra na prevenção de erros e falhas.",
+            "b) Um método que altera o comportamento de uma classe.",
+            "c) Um tipo de classe que não pode ser estendida.",
+            "d) Uma técnica para criar interfaces gráficas."
+        ],
+        "answer": "a"
+    }
+]
